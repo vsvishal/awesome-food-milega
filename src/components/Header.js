@@ -11,7 +11,7 @@ function Header() {
   const onlineStatus = useOnlineStatus();
 
   return (
-    <div className="flex justify-between shadow-lg items-center">
+    <div className="flex justify-between shadow-lg items-center sticky top-0 bg-[#222229] z-10">
       <div className="m-3">
         <img className="w-20 h-16" src={LOGO_URL} alt="logo" />
       </div>

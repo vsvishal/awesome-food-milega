@@ -66,7 +66,7 @@ function Body() {
         <div className="p-4">
           <input
             type="text"
-            className="px-2 py-1 rounded-sm text-black"
+            className="px-2 py-1 rounded-sm text-black sticky top-0"
             placeholder="Search Restaurants"
             value={searchText}
             onChange={(e) => setSearchText(e.target.value)}
