@@ -1,13 +1,16 @@
-import Card from "./Card";
+import Card, { withPromotedLabel } from "./Card";
 import { useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import { withDiscountLabel } from "./Card";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
   const [allRestaurants, setAllRestaurants] = useState([]);
   const [searchText, setSearchText] = useState("");
+
+  const RestaurantCardDiscount = withDiscountLabel(Card);
 
   useEffect(() => {
     console.log("useEffect() called");
@@ -25,7 +28,7 @@ function Body() {
       jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants;
 
-    // console.log("restaurantList : ", restaurantList);
+    console.log("restaurantList : ", restaurantList);
 
     setRestaurants(restaurantList);
     setAllRestaurants(restaurantList);
@@ -94,7 +97,11 @@ function Body() {
             to={"/restaurants/" + restaurant.info.id}
             style={{ textDecoration: "none", color: "white" }}
           >
-            <Card restaurant={restaurant} />
+            {restaurant.info.aggregatedDiscountInfoV3 ? (
+              <RestaurantCardDiscount restaurant={restaurant} />
+            ) : (
+              <Card restaurant={restaurant} />
+            )}
           </Link>
         ))}
       </div>
