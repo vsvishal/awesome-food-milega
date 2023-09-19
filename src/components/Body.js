@@ -28,7 +28,7 @@ function Body() {
       jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants;
 
-    console.log("restaurantList : ", restaurantList);
+    // console.log("restaurantList : ", restaurantList);
 
     setRestaurants(restaurantList);
     setAllRestaurants(restaurantList);

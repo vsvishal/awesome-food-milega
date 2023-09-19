@@ -16,6 +16,16 @@ function RestuarantMenu() {
     resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards[1]?.card
       ?.card || {};
   // console.log("itemCards ", itemCards);
+  console.log(resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards);
+
+  const categoryData =
+    resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards;
+  const categories = categoryData.filter(
+    (c) =>
+      c.card.card["@type"] ===
+      "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory"
+  );
+  console.log("categories ", categories);
 
   return resInfo === null ? (
     <Shimmer />
