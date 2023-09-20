@@ -4,6 +4,7 @@ import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import { withDiscountLabel } from "./Card";
+import Error from "./Error";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
@@ -14,24 +15,29 @@ function Body() {
 
   useEffect(() => {
     console.log("useEffect() called");
+
     fetchData();
   }, []);
 
   const fetchData = async () => {
-    const data = await fetch(
-      "https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.5184278&lng=73.9775314&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
-    );
+    try {
+      const data = await fetch(
+        "https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.5184278&lng=73.9775314&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+      );
 
-    const jsonData = await data.json();
-    // console.log(jsonData);
-    const restaurantList =
-      jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
-        ?.restaurants;
+      const jsonData = await data.json();
+      // console.log(jsonData);
+      const restaurantList =
+        jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
+          ?.restaurants;
 
-    // console.log("restaurantList : ", restaurantList);
-
-    setRestaurants(restaurantList);
-    setAllRestaurants(restaurantList);
+      // console.log("restaurantList : ", restaurantList);
+      setRestaurants(restaurantList);
+      setAllRestaurants(restaurantList);
+    } catch (error) {
+      console.log(error);
+      <Error />;
+    }
   };
 
   console.log("I am inside body");
