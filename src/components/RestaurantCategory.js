@@ -1,19 +1,27 @@
+import { useState } from "react";
 import ItemList from "./ItemList";
 
 function RestaurantCategory({ data }) {
-  console.log("data: ", data);
+  const [showItems, setShowItems] = useState();
+  const handlerClick = () => {
+    setShowItems(!showItems);
+  };
+  // console.log("data: ", data);
   return (
     // Accordion Header
-    <div className="w-6/12 mx-auto my-1.5 bg-gray-600 p-2 rounded-sm">
-      <div className="flex justify-between">
+    <div className="w-8/12 mx-auto my-1.5 bg-gray-700 p-2 rounded-sm">
+      <div
+        className="flex justify-between cursor-pointer"
+        onClick={handlerClick}
+      >
         <span className="font-bold ">
           {data.title} ({data.itemCards.length})
         </span>
         <span>🔽</span>
       </div>
-      <ItemList items={data.itemCards} />
+      {/* Acoordion Body */}
+      {showItems && <ItemList items={data.itemCards} />}
     </div>
-    // Acoordion Body
   );
 }
 

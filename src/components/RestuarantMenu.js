@@ -8,7 +8,7 @@ function RestuarantMenu() {
 
   const resInfo = useRestaurantMenu(resId);
 
-  console.log("menu", resInfo);
+  // console.log("menu", resInfo);
   const { name, areaName, avgRating, costForTwoMessage, cuisines, locality } =
     resInfo?.cards?.[0].card?.card?.info || {};
 
@@ -16,10 +16,10 @@ function RestuarantMenu() {
     resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards[1]?.card
       ?.card || {};
   // console.log("itemCards ", itemCards);
-  console.log(
-    "resInfo details",
-    resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR?.cards
-  );
+  // console.log(
+  //   "resInfo details",
+  //   resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR?.cards
+  // );
 
   const categoryData =
     resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR?.cards;
@@ -40,7 +40,10 @@ function RestuarantMenu() {
           {cuisines?.join(", ")} - {costForTwoMessage}
         </h3>
         {categories.map((category) => (
-          <RestaurantCategory data={category?.card?.card} />
+          <RestaurantCategory
+            key={category?.card?.card?.title}
+            data={category?.card?.card}
+          />
         ))}
       </div>
     </div>

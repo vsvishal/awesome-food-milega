@@ -36,7 +36,7 @@ function Body() {
       setAllRestaurants(restaurantList);
     } catch (error) {
       console.log(error);
-      <Error />;
+      // <Error />;
     }
   };
 
