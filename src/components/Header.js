@@ -3,6 +3,7 @@ import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
+import { useSelector } from "react-redux";
 
 function Header() {
   // This btnName var is constant, react is not changing its value, actually during rerender, it creates new var,
@@ -12,6 +13,10 @@ function Header() {
   const onlineStatus = useOnlineStatus();
   const { loggedInUser } = useContext(UserContext);
   // console.log("dataContext: ", dataContext);
+
+  // Suscribing to the store using a Selector
+  const cartItems = useSelector((store) => store.cart.items);
+  console.log("cartItems ", cartItems);
 
   return (
     <div className="flex justify-between shadow-lg items-center sticky top-0 bg-[#222229] z-20">
@@ -43,7 +48,11 @@ function Header() {
               Grocery
             </Link>
           </li>
-          <li className="px-4 hover:text-yellow-400">Cart</li>
+          <li className="px-4 hover:text-yellow-400">
+            <Link to={"/cart"} style={{ textDecoration: "none" }}>
+              {`🛒${cartItems.length}`}
+            </Link>
+          </li>
           <button
             className="px-4 bg-orange-600 py-1 rounded-sm"
             onClick={() =>
