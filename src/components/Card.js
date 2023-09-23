@@ -1,7 +1,10 @@
+import { useContext } from "react";
 import { CDN_URL } from "../utils/constants";
+import UserContext from "../utils/UserContext";
 
 function Card({ restaurant }) {
   // console.log("restaurant: ", restaurant);
+  // const { loggedInUser } = useContext(UserContext);
 
   const {
     cloudinaryImageId,
@@ -32,6 +35,7 @@ function Card({ restaurant }) {
       <h4>
         🕑 {sla.deliveryTime + " " + "mins"} &nbsp; 🚲 {sla.lastMileTravel} kms
       </h4>
+      {/* <h5>{loggedInUser}</h5> */}
     </div>
   );
 }

@@ -1,10 +1,11 @@
 import Card, { withPromotedLabel } from "./Card";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import { withDiscountLabel } from "./Card";
 import Error from "./Error";
+import UserContext from "../utils/UserContext";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
@@ -12,6 +13,7 @@ function Body() {
   const [searchText, setSearchText] = useState("");
 
   const RestaurantCardDiscount = withDiscountLabel(Card);
+  const { loggedInUser, setUserName } = useContext(UserContext);
 
   useEffect(() => {
     console.log("useEffect() called");
@@ -94,6 +96,16 @@ function Body() {
           >
             Top Rated Restraunt
           </button>
+        </div>
+        <div className="mx-7">
+          <label htmlFor="usrname">User Name : </label>
+          <input
+            className="rounded-sm p-1 text-black"
+            id="usrname"
+            placeholder="User name"
+            value={loggedInUser}
+            onChange={(e) => setUserName(e.target.value)}
+          ></input>
         </div>
       </div>
       <div className="flex flex-wrap justify-center">
