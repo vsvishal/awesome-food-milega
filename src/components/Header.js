@@ -1,7 +1,8 @@
 import { LOGO_URL } from "../utils/constants";
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 function Header() {
   // This btnName var is constant, react is not changing its value, actually during rerender, it creates new var,
@@ -9,6 +10,8 @@ function Header() {
   const [btnName, setBtnName] = useState("Login");
   console.log("Header component");
   const onlineStatus = useOnlineStatus();
+  const { loggedInUser } = useContext(UserContext);
+  // console.log("dataContext: ", dataContext);
 
   return (
     <div className="flex justify-between shadow-lg items-center sticky top-0 bg-[#222229] z-20">
@@ -49,6 +52,7 @@ function Header() {
           >
             {btnName}
           </button>
+          <li className="px-4 font-bold">{loggedInUser}</li>
         </ul>
       </div>
     </div>
