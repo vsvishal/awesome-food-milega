@@ -117,3 +117,42 @@ https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-exa
 ```
 
 [👆 website: parceljs](https://parceljs.org/languages/javascript/#babel)
+
+7. npm install --save-dev jest-environment-jsdom
+8. npm i -D @babel/preset-react - to make JSX works with test cases
+9. Include @babel/preset-react inside my babel
+10. Add this to "babel.config.js"
+11. npm i -D @testing-library/jest-dom
+
+```javascript
+module.exports = {
+  presets: [
+    ["@babel/preset-env", { targets: { node: "current" } }],
+    ["@babel/preset-react", { targets: { runtime: "automatic" } }],
+  ],
+};
+```
+
+### 👨‍🚀 Whever you are testing UI component in a React, you have to render that component on the JSDom 1st.
+
+```javascript
+// Test Case example
+import React from "react";
+import { render, screen } from "@testing-library/react";
+import Contact from "../Contact";
+import "@testing-library/jest-dom";
+
+// test case fun name can be it or test both are same
+test("Should load heading inside Contact component", () => {
+  render(<Contact />);
+
+  // Quering
+  const heading = screen.getByRole("heading");
+
+  // Assertion
+  expect(heading).toBeInTheDocument();
+});
+
+// To group multiple test cases use describe()
+describe("Contact Us Page Test Case", () => {});
+```
