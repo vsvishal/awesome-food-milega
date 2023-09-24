@@ -38,13 +38,13 @@ https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-exa
 - Redux store is a big javascript object which is kept in a Global central space
 - To avoid Redux store to become very large, clumsy there is slices in redux store (e.g loggedIn users slice, cart slice)
 - [For Write Data] e.g When you click on button => Redux dispatches an "Action" => Action calls the "Function" (Reducer) => then this Function updates the slice of Redux store [modies the required thing (e.g Cart)]
-- For Reading Data we use "Selector" als known as "Subscribing to store" (If data in store changes, the component updates automatically). React Subscribe through selector
+- For Reading Data we use "Selector" also known as "Subscribing to store" (If data in store changes, the component updates automatically). React Subscribe through selector
 - While subscribing to store, only subscribe to specific portion of store which is required otherwise it will hit performance.
 - ```javascript
   // Suscribing to the specfic slice of store using a Selector, good for performance
   const cartItems = useSelector((store) => store.cart.items);
 
-  // Below is not bad for performance, since here whole store is subscribed, so if anything changes in store, it load complete store again.
+  // Below is bad for performance, since here whole store is subscribed, so if anything changes in store, it load complete store again.
   const store = useSelector((store) => store);
   const cartItems = store.cart.items;
 
@@ -55,7 +55,7 @@ https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-exa
       console.log(state) // It will not print the log in console properly
 
       // For seeing log properly use current
-      import { currents } from "@reduxjs/toolkit";
+      import { current } from "@reduxjs/toolkit";
       console.log(current(state))
 
       // state = [] - not allowed, if you do, it is not mutating the state, its only changing the reference
@@ -78,3 +78,42 @@ https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-exa
   curretly it does the same thing as older version behind teh scene with the help of "immer" library -->
     state.items.push(action.payload)
   ```
+
+## 👨‍🚀 Types of testing (developer can write)
+
+- Unit Testing - Testing 1 component in isolation
+- Integration Testing
+- End to End Testing (e2e testing)
+
+## 👨‍🚀 React Testing Library
+
+- React Testing Library builds on top of DOM Testing Library by adding APIs for working with React components.
+- Specific to a testing framework (though we recommend Jest as our preference, the library works with any framework).
+
+### Testing dependency Installation
+
+1. npm install --save-dev @testing-library/react
+2. npm install --save-dev jest
+3. npm install --save-dev babel-jest @babel/core @babel/preset-env
+4. Configure babel.config.js
+
+5. Now Jest Babel will conflict with Parcel Babel to avoid this create ".parcelrc" & add the required configuration
+   To disable Babel transpilation in Parcel, override the default Parcel config for JavaScript to exclude @parcel/transformer-babel.
+6. Jest configuration (npx jest --init)
+   ![jest init](https://github.com/vsvishal/react-projects/blob/0f963c2652dceea25556a1f2608b82a3400efcfd/images/jest-init.png)
+
+```javascript
+.parcelrc:
+{
+  "extends": "@parcel/config-default",
+  "transformers": {
+    "*.{js,mjs,jsx,cjs,ts,tsx}": [
+      "@parcel/transformer-js",
+      "@parcel/transformer-react-refresh-wrap"
+    ]
+  }
+
+}
+```
+
+[👆 website: parceljs](https://parceljs.org/languages/javascript/#babel)
