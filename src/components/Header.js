@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
 import { useSelector } from "react-redux";
+import React from "react";
 
 function Header() {
   // This btnName var is constant, react is not changing its value, actually during rerender, it creates new var,
