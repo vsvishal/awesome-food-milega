@@ -1,0 +1,80 @@
+{
+    "info": {
+        "id": "62932",
+        "name": "LunchBox - Meals and Thalis",
+        "cloudinaryImageId": "qkp3whv8svh51grd6fbh",
+        "locality": "Hadapsar",
+        "areaName": "Magarpatta",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "Biryani",
+            "North Indian",
+            "Punjabi",
+            "Healthy Food",
+            "Desserts",
+            "Beverages"
+        ],
+        "avgRating": 4,
+        "feeDetails": {
+            "restaurantId": "62932",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4300
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4300
+        },
+        "parentId": "4925",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "5K+",
+        "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 4.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30 mins",
+            "lastMileTravelString": "4.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-09-25 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "40% OFF",
+            "subHeader": "UPTO ₹80"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/lunchbox-meals-and-thalis-hadapsar-magarpatta-pune-62932",
+        "type": "WEBLINK"
+    }
+}

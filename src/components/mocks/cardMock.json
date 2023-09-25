@@ -1,0 +1,70 @@
+{
+    "info": {
+        "id": "23712",
+        "name": "McDonald's",
+        "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+        "locality": "Amanora Town",
+        "areaName": "Hadapsar",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Burgers",
+            "Beverages",
+            "Cafe",
+            "Desserts"
+        ],
+        "avgRating": 4.2,
+        "feeDetails": {
+            "restaurantId": "23712",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 7400
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 7400
+        },
+        "parentId": "630",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 38,
+            "lastMileTravel": 7.4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "38 mins",
+            "lastMileTravelString": "7.4 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-09-26 00:45:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    }
+}

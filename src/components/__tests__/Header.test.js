@@ -31,7 +31,7 @@ it("Should render Header component with a Cart items 0", () => {
     </BrowserRouter>
   );
 
-  // Also use regex
+  // Also can be use regex
   const cartItems = screen.getByText(/🛒/);
   //   const cartItems = screen.getByText("🛒0");
   expect(cartItems).toBeInTheDocument();

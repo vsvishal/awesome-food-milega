@@ -1,6 +1,5 @@
-import { useContext } from "react";
 import { CDN_URL } from "../utils/constants";
-import UserContext from "../utils/UserContext";
+import React from "react";
 
 function Card({ restaurant }) {
   // console.log("restaurant: ", restaurant);
