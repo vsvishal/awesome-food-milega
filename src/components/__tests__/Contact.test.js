@@ -3,8 +3,9 @@ import { render, screen } from "@testing-library/react";
 import Contact from "../Contact";
 import "@testing-library/jest-dom";
 
+// For grouping test cases use describe()
 describe("Contact Us Page Test Case", () => {
-  // test case fun name can be it or test
+  // test case function name can be it or test
   it("Should load heading inside Contact component", () => {
     render(<Contact />);
 

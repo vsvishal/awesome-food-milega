@@ -63,10 +63,7 @@ https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-exa
     },
   ```
 
-```
-
 ![Redux theory](https://github.com/vsvishal/react-projects/blob/09c1bc54a9ad14192b406e4f7570dbd58ed2d7f8/images/redux-theory.jpg)
-```
 
 - ```javascript
   <!-- Vanilla (older) Redux => DON'T MUTATE THE STATE, used to follow below coding practice, returning was mandatory -->
