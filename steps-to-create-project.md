@@ -153,3 +153,9 @@ test("Should load heading inside Contact component", () => {
 // To group multiple test cases use describe()
 describe("Contact Us Page Test Case", () => {});
 ```
+
+## If you don't have anything to find the element then add data-testid="" inside element
+
+```javacript
+ const searchInput = screen.getByTestId("searchInput");
+```

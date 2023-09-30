@@ -4,8 +4,8 @@ import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import { withDiscountLabel } from "./Card";
-import Error from "./Error";
 import UserContext from "../utils/UserContext";
+import React from "react";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
@@ -28,7 +28,7 @@ function Body() {
       );
 
       const jsonData = await data.json();
-      // console.log(jsonData);
+      console.log("jsonData: ", jsonData);
       const restaurantList =
         jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
           ?.restaurants;
@@ -77,6 +77,7 @@ function Body() {
         <div className="p-4">
           <input
             type="text"
+            data-testid="searchInput"
             className="px-2 py-1 rounded-sm text-black sticky top-0"
             placeholder="Search Restaurants"
             value={searchText}
