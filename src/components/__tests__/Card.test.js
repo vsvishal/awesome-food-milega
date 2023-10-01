@@ -6,6 +6,23 @@ import "@testing-library/jest-dom";
 import React from "react";
 import { withDiscountLabel } from "../Card";
 
+// utility testing functions
+// beforeAll(() => {
+//   console.log("Before All");
+// });
+
+// beforeEach(() => {
+//   console.log("Before Each");
+// });
+
+// afterAll(() => {
+//   console.log("After all");
+// });
+
+// afterEach(() => {
+//   console.log("After each");
+// });
+
 it("Should render Card component with props data", () => {
   // prop name should be same otherwise will throw error
   render(<Card restaurant={MOCK_DATA} />);

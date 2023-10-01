@@ -28,7 +28,7 @@ function Body() {
       );
 
       const jsonData = await data.json();
-      console.log("jsonData: ", jsonData);
+      // console.log("jsonData: ", jsonData);
       const restaurantList =
         jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
           ?.restaurants;
@@ -45,7 +45,7 @@ function Body() {
   console.log("I am inside body");
 
   const highestRatingResHandler = (resDataList) => {
-    let filteredRes = resDataList.filter((rest) => rest.info.avgRating >= 4.5);
+    let filteredRes = resDataList.filter((rest) => rest.info.avgRating >= 4.2);
     setRestaurants(filteredRes);
   };
 

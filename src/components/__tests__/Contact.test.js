@@ -5,6 +5,14 @@ import "@testing-library/jest-dom";
 
 // For grouping test cases use describe()
 describe("Contact Us Page Test Case", () => {
+  // beforeAll(() => {
+  //   console.log("Before All");
+  // });
+
+  // beforeEach(() => {
+  //   console.log("Before Each");
+  // });
+
   // test case function name can be it or test
   it("Should load heading inside Contact component", () => {
     render(<Contact />);
@@ -36,7 +44,7 @@ describe("Contact Us Page Test Case", () => {
   test("Should load 2 input boxes on the Contact component", () => {
     render(<Contact />);
     const inputBoxes = screen.getAllByRole("textbox");
-    console.log("inputBoxes length", inputBoxes.length);
+    // console.log("inputBoxes length", inputBoxes.length);
     expect(inputBoxes.length).toBe(3);
   });
 });

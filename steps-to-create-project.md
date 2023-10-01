@@ -154,8 +154,11 @@ test("Should load heading inside Contact component", () => {
 describe("Contact Us Page Test Case", () => {});
 ```
 
-## If you don't have anything to find the element then add data-testid="" inside element
+- If you don't have anything to find the element then add data-testid="" inside element
 
 ```javacript
  const searchInput = screen.getByTestId("searchInput");
 ```
+
+- act() - whenver your component is updating the state or it has async rap under act()
+- You can check the coverage report in the browser by going to "coverage" folder => "lco-report" => "index.html"

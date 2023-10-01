@@ -1,5 +1,5 @@
-import { useState } from "react";
 import ItemList from "./ItemList";
+import React from "react";
 
 function RestaurantCategory({ data, showItems, setShowIndex }) {
   // const [showItems, setShowItems] = useState();

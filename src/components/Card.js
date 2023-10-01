@@ -19,7 +19,10 @@ function Card({ restaurant }) {
   //   backgroundColor: "#595959",
   // };
   return (
-    <div className="m-4 p-4 w-[300px] rounded-lg bg-gray-800 hover:bg-gray-600 h-96 sticky">
+    <div
+      data-testid="resCard"
+      className="m-4 p-4 w-[300px] rounded-lg bg-gray-800 hover:bg-gray-600 h-96 sticky"
+    >
       <img
         className="rounded-lg h-40 w-80"
         src={CDN_URL + cloudinaryImageId}
