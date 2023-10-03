@@ -2,6 +2,7 @@ import { useDispatch, useSelector } from "react-redux";
 import ItemList from "./ItemList";
 import { clearCart } from "../utils/redux/cartSlice";
 import React from "react";
+import Footer from "./Footer";
 
 function Cart() {
   const cartItems = useSelector((store) => store.cart.items);
@@ -26,6 +27,7 @@ function Cart() {
         )}
         <ItemList items={cartItems} />
       </div>
+      <Footer />
     </div>
   );
 }

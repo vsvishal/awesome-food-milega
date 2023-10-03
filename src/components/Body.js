@@ -6,6 +6,8 @@ import useOnlineStatus from "../utils/useOnlineStatus";
 import { withDiscountLabel } from "./Card";
 import UserContext from "../utils/UserContext";
 import React from "react";
+import { RESTAURANTS_URL } from "../utils/constants";
+import Footer from "./Footer";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
@@ -13,7 +15,7 @@ function Body() {
   const [searchText, setSearchText] = useState("");
 
   const RestaurantCardDiscount = withDiscountLabel(Card);
-  const { loggedInUser, setUserName } = useContext(UserContext);
+  // const { loggedInUser, setUserName } = useContext(UserContext);
 
   useEffect(() => {
     console.log("useEffect() called");
@@ -23,9 +25,7 @@ function Body() {
 
   const fetchData = async () => {
     try {
-      const data = await fetch(
-        "https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.5184278&lng=73.9775314&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
-      );
+      const data = await fetch(RESTAURANTS_URL);
 
       const jsonData = await data.json();
       // console.log("jsonData: ", jsonData);
@@ -73,18 +73,18 @@ function Body() {
     <Shimmer />
   ) : (
     <div className="">
-      <div className="flex items-center">
+      <div className="flex items-center justify-center">
         <div className="p-4">
           <input
             type="text"
             data-testid="searchInput"
-            className="px-2 py-1 rounded-sm text-black sticky top-0"
+            className="px-6 py-1 text-black sticky top-0"
             placeholder="Search Restaurants"
             value={searchText}
             onChange={(e) => setSearchText(e.target.value)}
           />
           <button
-            className="px-4 py-1 bg-green-600 rounded-sm"
+            className="px-4 py-1 bg-green-600"
             onClick={searchRestHandler}
           >
             Search
@@ -98,7 +98,7 @@ function Body() {
             Top Rated Restraunt
           </button>
         </div>
-        <div className="mx-7">
+        {/* <div className="mx-7">
           <label htmlFor="usrname">User Name : </label>
           <input
             className="rounded-sm p-1 text-black"
@@ -107,7 +107,7 @@ function Body() {
             value={loggedInUser}
             onChange={(e) => setUserName(e.target.value)}
           ></input>
-        </div>
+        </div> */}
       </div>
       <div className="flex flex-wrap justify-center">
         {restaurants?.map((restaurant) => (
@@ -124,6 +124,7 @@ function Body() {
           </Link>
         ))}
       </div>
+      <Footer />
     </div>
   );
 }
