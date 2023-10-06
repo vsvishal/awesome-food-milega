@@ -1,4 +1,3 @@
-import { LOGO_URL } from "../utils/constants";
 import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
@@ -28,7 +27,7 @@ function Header() {
       <div className="flex">
         <ul className="flex m-4 p-4 ">
           <li className="px-4 hover:text-yellow-400">
-            Online status: {onlineStatus === true ? "🟢" : "🔴"}{" "}
+            Online {onlineStatus === true ? "🟢" : "🔴"}{" "}
           </li>
           <li className="px-4 text-white hover:text-yellow-400">
             <Link to={"/"} style={{ textDecoration: "none" }}>
