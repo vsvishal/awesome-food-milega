@@ -1,4 +1,3 @@
-import Footer from "./Footer";
 import User from "./User";
 import USerClass from "./UserClass";
 

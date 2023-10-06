@@ -8,6 +8,7 @@ import UserContext from "../utils/UserContext";
 import React from "react";
 import { RESTAURANTS_URL } from "../utils/constants";
 import Footer from "./Footer";
+import restaurantDataList from "../utils/homePageMockData";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);
@@ -25,15 +26,19 @@ function Body() {
 
   const fetchData = async () => {
     try {
-      const data = await fetch(RESTAURANTS_URL);
+      const jsonData = await restaurantDataList[0];
+      // const jsonData = await data.json();
+      console.log("jsonData: ", jsonData);
 
-      const jsonData = await data.json();
-      // console.log("jsonData: ", jsonData);
+      // const data = await fetch(RESTAURANTS_URL);
+      // const jsonData = await data.json();
+      // // console.log("jsonData: ", jsonData);
+
       const restaurantList =
         jsonData.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
           ?.restaurants;
-
       // console.log("restaurantList : ", restaurantList);
+
       setRestaurants(restaurantList);
       setAllRestaurants(restaurantList);
     } catch (error) {

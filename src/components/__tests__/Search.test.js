@@ -28,15 +28,18 @@ it("Should Search Restaurants List for pizza text input", async () => {
   const cardsBeforeSearch = screen.getAllByTestId("resCard");
   expect(cardsBeforeSearch.length).toBe(20);
 
+  console.log("cardsBeforeSearch DATA: ", cardsBeforeSearch);
+
   const searchBtn = screen.getByRole("button", { name: "Search" });
   const searchInput = screen.getByTestId("searchInput");
 
-  fireEvent.change(searchInput, { target: { value: "pizza" } });
+  fireEvent.change(searchInput, { target: { value: "Burger" } });
   fireEvent.click(searchBtn);
 
   const cardsAfterSearch = screen.getAllByTestId("resCard");
+  // console.log("cardsAfterSearch.length: ", cardsAfterSearch.length);
 
-  expect(cardsAfterSearch.length).toBe(2);
+  expect(cardsAfterSearch.length).toBe(3);
 });
 
 it("Should filter top rated restaurant", async () => {
@@ -57,5 +60,5 @@ it("Should filter top rated restaurant", async () => {
   fireEvent.click(topRatedBtn);
 
   const cardsAfterFilter = screen.getAllByTestId("resCard");
-  expect(cardsAfterFilter.length).toBe(9);
+  expect(cardsAfterFilter.length).toBe(10);
 });

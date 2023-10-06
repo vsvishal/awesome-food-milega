@@ -4,7 +4,7 @@ const restaurantDataList = [
     data: {
       statusMessage: "done successfully",
       pageOffset: {
-        nextOffset: "COVCELQ4KIDghdeStvXoNzCnEzgD",
+        nextOffset: "COVCELQ4KIDI96jksqiZUzCnEzgB",
         widgetOffset: {
           NewListingView_Topical_Fullbleed: "",
           NewListingView_category_bar_chicletranking_TwoRows: "",
@@ -33,7 +33,7 @@ const restaurantDataList = [
               },
               layout: {
                 rows: 1,
-                columns: 7,
+                columns: 2,
                 horizontalScrollEnabled: true,
                 shouldSnap: true,
                 itemSpacing: 10,
@@ -84,11 +84,11 @@ const restaurantDataList = [
               imageGridCards: {
                 info: [
                   {
-                    id: "1200052",
+                    id: "930827",
                     imageId:
-                      "rng/md/carousel/production/3967580c0329555334072b18ba3c889c",
+                      "rng/md/carousel/production/318cab799713a9739a56dc9d24659a8e",
                     action: {
-                      link: "https://www.swiggy.com/collections/92870?collection_id=92870&tags=layout_ux4&type=rcv2",
+                      link: "https://www.swiggy.com/collections/85936?collection_id=85936&tags=layout_ux4&type=rcv2",
                       text: "All new super",
                       type: "WEBLINK",
                     },
@@ -97,13 +97,13 @@ const restaurantDataList = [
                       altText: "GET 50% OFF ON FIRST ORDER",
                       altTextCta: "ORDER NOW",
                     },
-                    entityId: "92870",
+                    entityId: "85936",
                     frequencyCapping: {},
                   },
                   {
-                    id: "1293296",
+                    id: "1303050",
                     imageId:
-                      "rng/md/carousel/production/2e54588fcfbfae32c57d1d4d3515f6e5",
+                      "rng/md/carousel/production/e0b0a61e42290317661f60a4e6ee537f",
                     action: {
                       link: "https://www.swiggy.com/menu/159428",
                       text: "Burger King",
@@ -115,96 +115,6 @@ const restaurantDataList = [
                       altTextCta: "Order Now",
                     },
                     entityId: "159428",
-                    frequencyCapping: {},
-                    isManualAds: true,
-                  },
-                  {
-                    id: "1293288",
-                    imageId:
-                      "rng/md/carousel/production/380c754c63b8e2e38755b76a32937ac6",
-                    action: {
-                      link: "https://www.swiggy.com/menu/606738",
-                      text: "little",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "125",
-                      altTextCta: "Order Now",
-                    },
-                    entityId: "606738",
-                    frequencyCapping: {},
-                    isManualAds: true,
-                  },
-                  {
-                    id: "1293298",
-                    imageId:
-                      "rng/md/carousel/production/3dfa4beb2c8f3fd97ef2ee8b80af2b60",
-                    action: {
-                      link: "https://www.swiggy.com/menu/288390",
-                      text: "Starbucks Coffee",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "Starbucks Coffee _125",
-                      altTextCta: "Order Now",
-                    },
-                    entityId: "288390",
-                    frequencyCapping: {},
-                    isManualAds: true,
-                  },
-                  {
-                    id: "1289599",
-                    imageId:
-                      "rng/md/carousel/production/59a3887e039f8234caa92142b48209bb",
-                    action: {
-                      link: "https://www.swiggy.com/menu/288390",
-                      text: "Starbucks Coffee",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "Starbucks Coffee _125",
-                      altTextCta: "Order Now",
-                    },
-                    entityId: "288390",
-                    frequencyCapping: {},
-                    isManualAds: true,
-                  },
-                  {
-                    id: "1293225",
-                    imageId:
-                      "rng/md/carousel/production/3dfa4beb2c8f3fd97ef2ee8b80af2b60",
-                    action: {
-                      link: "https://www.swiggy.com/menu/288390",
-                      text: "Starbucks Coffee",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "Starbucks Coffee _125",
-                      altTextCta: "Order Now",
-                    },
-                    entityId: "288390",
-                    frequencyCapping: {},
-                    isManualAds: true,
-                  },
-                  {
-                    id: "1293301",
-                    imageId:
-                      "rng/md/carousel/production/882c5c15003aaea97773e16f4331ee79",
-                    action: {
-                      link: "https://www.swiggy.com/menu/401106",
-                      text: "Kwality Walls",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "50",
-                      altTextCta: "Order Now",
-                    },
-                    entityId: "401106",
                     frequencyCapping: {},
                     isManualAds: true,
                   },
@@ -229,11 +139,11 @@ const restaurantDataList = [
                     "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
                   info: [
                     {
-                      id: "1200052",
+                      id: "930827",
                       imageId:
-                        "rng/md/carousel/production/3967580c0329555334072b18ba3c889c",
+                        "rng/md/carousel/production/318cab799713a9739a56dc9d24659a8e",
                       action: {
-                        link: "https://www.swiggy.com/collections/92870?collection_id=92870&tags=layout_ux4&type=rcv2",
+                        link: "https://www.swiggy.com/collections/85936?collection_id=85936&tags=layout_ux4&type=rcv2",
                         text: "All new super",
                         type: "WEBLINK",
                       },
@@ -242,13 +152,13 @@ const restaurantDataList = [
                         altText: "GET 50% OFF ON FIRST ORDER",
                         altTextCta: "ORDER NOW",
                       },
-                      entityId: "92870",
+                      entityId: "85936",
                       frequencyCapping: {},
                     },
                     {
-                      id: "1293296",
+                      id: "1303050",
                       imageId:
-                        "rng/md/carousel/production/2e54588fcfbfae32c57d1d4d3515f6e5",
+                        "rng/md/carousel/production/e0b0a61e42290317661f60a4e6ee537f",
                       action: {
                         link: "https://www.swiggy.com/menu/159428",
                         text: "Burger King",
@@ -260,96 +170,6 @@ const restaurantDataList = [
                         altTextCta: "Order Now",
                       },
                       entityId: "159428",
-                      frequencyCapping: {},
-                      isManualAds: true,
-                    },
-                    {
-                      id: "1293288",
-                      imageId:
-                        "rng/md/carousel/production/380c754c63b8e2e38755b76a32937ac6",
-                      action: {
-                        link: "https://www.swiggy.com/menu/606738",
-                        text: "little",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "125",
-                        altTextCta: "Order Now",
-                      },
-                      entityId: "606738",
-                      frequencyCapping: {},
-                      isManualAds: true,
-                    },
-                    {
-                      id: "1293298",
-                      imageId:
-                        "rng/md/carousel/production/3dfa4beb2c8f3fd97ef2ee8b80af2b60",
-                      action: {
-                        link: "https://www.swiggy.com/menu/288390",
-                        text: "Starbucks Coffee",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "Starbucks Coffee _125",
-                        altTextCta: "Order Now",
-                      },
-                      entityId: "288390",
-                      frequencyCapping: {},
-                      isManualAds: true,
-                    },
-                    {
-                      id: "1289599",
-                      imageId:
-                        "rng/md/carousel/production/59a3887e039f8234caa92142b48209bb",
-                      action: {
-                        link: "https://www.swiggy.com/menu/288390",
-                        text: "Starbucks Coffee",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "Starbucks Coffee _125",
-                        altTextCta: "Order Now",
-                      },
-                      entityId: "288390",
-                      frequencyCapping: {},
-                      isManualAds: true,
-                    },
-                    {
-                      id: "1293225",
-                      imageId:
-                        "rng/md/carousel/production/3dfa4beb2c8f3fd97ef2ee8b80af2b60",
-                      action: {
-                        link: "https://www.swiggy.com/menu/288390",
-                        text: "Starbucks Coffee",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "Starbucks Coffee _125",
-                        altTextCta: "Order Now",
-                      },
-                      entityId: "288390",
-                      frequencyCapping: {},
-                      isManualAds: true,
-                    },
-                    {
-                      id: "1293301",
-                      imageId:
-                        "rng/md/carousel/production/882c5c15003aaea97773e16f4331ee79",
-                      action: {
-                        link: "https://www.swiggy.com/menu/401106",
-                        text: "Kwality Walls",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "50",
-                        altTextCta: "Order Now",
-                      },
-                      entityId: "401106",
                       frequencyCapping: {},
                       isManualAds: true,
                     },
@@ -414,91 +234,108 @@ const restaurantDataList = [
               imageGridCards: {
                 info: [
                   {
-                    id: "750223",
+                    id: "750562",
                     imageId:
-                      "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png",
+                      "v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Vada.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/83670?collection_id=83670&tags=layout_CCS_Rolls&type=rcv2",
-                      text: "Rolls",
+                      link: "https://www.swiggy.com/collections/80427?collection_id=80427&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+                      text: "Vada",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for roll",
+                      altText: "restaurants curated for vada",
                       altTextCta: "open",
                     },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=83670&tags=layout_CCS_Rolls",
+                    entityId: "80427",
                     frequencyCapping: {},
                   },
                   {
-                    id: "762797",
+                    id: "750644",
                     imageId:
-                      "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Burger.png",
+                      "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Idli.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/83637?collection_id=83637&tags=layout_CCS_Burger&type=rcv2",
-                      text: "Burgers",
+                      link: "https://www.swiggy.com/collections/80441?collection_id=80441&tags=layout_CCS_Idli&type=rcv2",
+                      text: "Idli",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for burger",
+                      altText: "restaurants curated for idly",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger",
+                      "swiggy://collectionV2?collection_id=80441&tags=layout_CCS_Idli",
                     frequencyCapping: {},
                   },
                   {
-                    id: "750580",
+                    id: "750132",
                     imageId:
-                      "v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png",
+                      "v1674029850/PC_Creative%20refresh/3D_bau/banners_new/Dosa.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/83644?collection_id=83644&tags=layout_CCS_Pizza&type=rcv2",
-                      text: "pizzas",
+                      link: "https://www.swiggy.com/collections/80426?collection_id=80426&tags=layout_CCS_Dosa&type=rcv2",
+                      text: "Dosa",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for pizza",
+                      altText: "restaurants curated for dosa",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=83644&tags=layout_CCS_Pizza",
+                      "swiggy://collectionV2?collection_id=80426&tags=layout_CCS_Dosa",
                     frequencyCapping: {},
                   },
                   {
-                    id: "750592",
-                    imageId: "v1675667625/PC_Creative%20refresh/Biryani_2.png",
+                    id: "750544",
+                    imageId:
+                      "v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Upma.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/83649?collection_id=83649&tags=layout_CCS_Biryani&type=rcv2",
-                      text: "Biryani",
+                      link: "https://www.swiggy.com/collections/80412?collection_id=80412&tags=layout_BAU_Contextual%2Cupma&type=rcv2",
+                      text: "Upma",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurants curated for biryani",
+                      altText: "restaurants curated for upma",
+                      altTextCta: "open",
+                    },
+                    entityId: "80412",
+                    frequencyCapping: {},
+                  },
+                  {
+                    id: "750203",
+                    imageId:
+                      "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80476?collection_id=80476&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                      text: "Paratha",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for paratha",
+                      altTextCta: "open",
+                    },
+                    entityId: "80476",
+                    frequencyCapping: {},
+                  },
+                  {
+                    id: "750231",
+                    imageId:
+                      "v1674029857/PC_Creative%20refresh/3D_bau/banners_new/Poha.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80374?collection_id=80374&tags=layout_CCS_Poha&type=rcv2",
+                      text: "Poha",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for poha",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
-                    frequencyCapping: {},
-                  },
-                  {
-                    id: "749774",
-                    imageId:
-                      "v1674029855/PC_Creative%20refresh/3D_bau/banners_new/Noodles.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80464?collection_id=80464&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
-                      text: "Noodles",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for noodles",
-                      altTextCta: "open",
-                    },
-                    entityId: "80464",
+                      "swiggy://collectionV2?collection_id=80374&tags=layout_CCS_Poha",
                     frequencyCapping: {},
                   },
                   {
@@ -516,24 +353,6 @@ const restaurantDataList = [
                       altTextCta: "open",
                     },
                     entityId: "80397",
-                    frequencyCapping: {},
-                  },
-                  {
-                    id: "749769",
-                    imageId:
-                      "v1674029852/PC_Creative%20refresh/3D_bau/banners_new/Momos.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80462?collection_id=80462&tags=layout_CCS_Momos&type=rcv2",
-                      text: "Momos",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for momos",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80462&tags=layout_CCS_Momos",
                     frequencyCapping: {},
                   },
                   {
@@ -555,24 +374,6 @@ const restaurantDataList = [
                     frequencyCapping: {},
                   },
                   {
-                    id: "750217",
-                    imageId:
-                      "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pav_Bhaji.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80364?collection_id=80364&tags=layout_PavBhaji_Contextual&type=rcv2",
-                      text: "Pav Bhaji",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for pav bhaji",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80364&tags=layout_PavBhaji_Contextual",
-                    frequencyCapping: {},
-                  },
-                  {
                     id: "749874",
                     imageId:
                       "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
@@ -588,40 +389,6 @@ const restaurantDataList = [
                     },
                     entityId:
                       "swiggy://collectionV2?collection_id=83656&tags=layout_CCS_Cake",
-                    frequencyCapping: {},
-                  },
-                  {
-                    id: "749761",
-                    imageId:
-                      "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Khichdi.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80456?collection_id=80456&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
-                      text: "Khichdi",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurants curated for khicdhi",
-                      altTextCta: "open",
-                    },
-                    entityId: "80456",
-                    frequencyCapping: {},
-                  },
-                  {
-                    id: "750207",
-                    imageId:
-                      "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pasta.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80480?collection_id=80480&tags=layout_BAU_Contextual%2Cpasta%2Cads_pc_pasta&type=rcv2",
-                      text: "Pasta",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for pasta",
-                      altTextCta: "open",
-                    },
-                    entityId: "80480",
                     frequencyCapping: {},
                   },
                   {
@@ -642,21 +409,21 @@ const restaurantDataList = [
                     frequencyCapping: {},
                   },
                   {
-                    id: "750249",
+                    id: "750572",
                     imageId:
-                      "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Shawarma.png",
+                      "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80403?collection_id=80403&tags=layout_Shawarma_Contextual&type=rcv2",
-                      text: "Shawarma",
+                      link: "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+                      text: "Pure Veg",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for shawarma",
+                      altText: "restaurants curated for veg",
                       altTextCta: "open",
                     },
                     entityId:
-                      "swiggy://collectionV2?collection_id=80403&tags=layout_Shawarma_Contextual",
+                      "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
                     frequencyCapping: {},
                   },
                   {
@@ -678,6 +445,24 @@ const restaurantDataList = [
                     frequencyCapping: {},
                   },
                   {
+                    id: "750599",
+                    imageId:
+                      "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Coffee.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/83908?collection_id=83908&tags=layout_CCS_Coffee&type=rcv2",
+                      text: "Coffee",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for coffee",
+                      altTextCta: "open",
+                    },
+                    entityId:
+                      "swiggy://collectionV2?collection_id=83908&tags=layout_CCS_Coffee",
+                    frequencyCapping: {},
+                  },
+                  {
                     id: "750226",
                     imageId:
                       "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Salad.png",
@@ -693,24 +478,6 @@ const restaurantDataList = [
                     },
                     entityId:
                       "swiggy://collectionV2?collection_id=80395&tags=layout_CCS_Salad",
-                    frequencyCapping: {},
-                  },
-                  {
-                    id: "749879",
-                    imageId:
-                      "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
-                    action: {
-                      link: "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
-                      text: "Chole Bhature",
-                      type: "WEBLINK",
-                    },
-                    entityType: "BANNER",
-                    accessibility: {
-                      altText: "restaurant curated for chhole bhatoore",
-                      altTextCta: "open",
-                    },
-                    entityId:
-                      "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
                     frequencyCapping: {},
                   },
                   {
@@ -732,37 +499,89 @@ const restaurantDataList = [
                     frequencyCapping: {},
                   },
                   {
-                    id: "750237",
+                    id: "750638",
                     imageId:
-                      "v1674029855/PC_Creative%20refresh/3D_bau/banners_new/Poori.png",
+                      "v1674029843/PC_Creative%20refresh/3D_bau/banners_new/Juice.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80378?collection_id=80378&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
-                      text: "Poori",
+                      link: "https://www.swiggy.com/collections/80446?collection_id=80446&tags=layout_Juices_Contextual&type=rcv2",
+                      text: "Juice",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for poori",
+                      altText: "restaurants curated for juice",
                       altTextCta: "open",
                     },
-                    entityId: "80378",
+                    entityId:
+                      "swiggy://collectionV2?collection_id=80446&tags=layout_Juices_Contextual",
                     frequencyCapping: {},
                   },
                   {
-                    id: "750640",
+                    id: "750198",
                     imageId:
-                      "v1674029847/PC_Creative%20refresh/3D_bau/banners_new/Kachori.png",
+                      "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Pancake.png",
                     action: {
-                      link: "https://www.swiggy.com/collections/80450?collection_id=80450&tags=layout_BAU_Contextual%2Ckachori&type=rcv2",
-                      text: "Kachori",
+                      link: "https://www.swiggy.com/collections/80472?collection_id=80472&tags=layout_BAU_Contextual%2Cpancake&type=rcv2",
+                      text: "Pancakes",
                       type: "WEBLINK",
                     },
                     entityType: "BANNER",
                     accessibility: {
-                      altText: "restaurant curated for kachori",
+                      altText: "restaurant curated for pancake",
                       altTextCta: "open",
                     },
-                    entityId: "80450",
+                    entityId: "80472",
+                    frequencyCapping: {},
+                  },
+                  {
+                    id: "749761",
+                    imageId:
+                      "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Khichdi.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80456?collection_id=80456&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
+                      text: "Khichdi",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurants curated for khicdhi",
+                      altTextCta: "open",
+                    },
+                    entityId: "80456",
+                    frequencyCapping: {},
+                  },
+                  {
+                    id: "749789",
+                    imageId:
+                      "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Omelette.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80468?collection_id=80468&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
+                      text: "Omelette",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for omelette",
+                      altTextCta: "open",
+                    },
+                    entityId: "80468",
+                    frequencyCapping: {},
+                  },
+                  {
+                    id: "749791",
+                    imageId:
+                      "v1674029852/PC_Creative%20refresh/3D_bau/banners_new/Pakodas.png",
+                    action: {
+                      link: "https://www.swiggy.com/collections/80470?collection_id=80470&tags=layout_BAU_Contextual%2Cpakoda&type=rcv2",
+                      text: "Pakoda",
+                      type: "WEBLINK",
+                    },
+                    entityType: "BANNER",
+                    accessibility: {
+                      altText: "restaurant curated for pakoda",
+                      altTextCta: "open",
+                    },
+                    entityId: "80470",
                     frequencyCapping: {},
                   },
                 ],
@@ -786,92 +605,108 @@ const restaurantDataList = [
                     "type.googleapis.com/swiggy.gandalf.widgets.v2.ImageInfoLayoutCard",
                   info: [
                     {
-                      id: "750223",
+                      id: "750562",
                       imageId:
-                        "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png",
+                        "v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Vada.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/83670?collection_id=83670&tags=layout_CCS_Rolls&type=rcv2",
-                        text: "Rolls",
+                        link: "https://www.swiggy.com/collections/80427?collection_id=80427&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+                        text: "Vada",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurants curated for roll",
+                        altText: "restaurants curated for vada",
                         altTextCta: "open",
                       },
-                      entityId:
-                        "swiggy://collectionV2?collection_id=83670&tags=layout_CCS_Rolls",
+                      entityId: "80427",
                       frequencyCapping: {},
                     },
                     {
-                      id: "762797",
+                      id: "750644",
                       imageId:
-                        "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Burger.png",
+                        "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Idli.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/83637?collection_id=83637&tags=layout_CCS_Burger&type=rcv2",
-                        text: "Burgers",
+                        link: "https://www.swiggy.com/collections/80441?collection_id=80441&tags=layout_CCS_Idli&type=rcv2",
+                        text: "Idli",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurants curated for burger",
+                        altText: "restaurants curated for idly",
                         altTextCta: "open",
                       },
                       entityId:
-                        "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger",
+                        "swiggy://collectionV2?collection_id=80441&tags=layout_CCS_Idli",
                       frequencyCapping: {},
                     },
                     {
-                      id: "750580",
+                      id: "750132",
                       imageId:
-                        "v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png",
+                        "v1674029850/PC_Creative%20refresh/3D_bau/banners_new/Dosa.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/83644?collection_id=83644&tags=layout_CCS_Pizza&type=rcv2",
-                        text: "pizzas",
+                        link: "https://www.swiggy.com/collections/80426?collection_id=80426&tags=layout_CCS_Dosa&type=rcv2",
+                        text: "Dosa",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurants curated for pizza",
+                        altText: "restaurants curated for dosa",
                         altTextCta: "open",
                       },
                       entityId:
-                        "swiggy://collectionV2?collection_id=83644&tags=layout_CCS_Pizza",
+                        "swiggy://collectionV2?collection_id=80426&tags=layout_CCS_Dosa",
                       frequencyCapping: {},
                     },
                     {
-                      id: "750592",
+                      id: "750544",
                       imageId:
-                        "v1675667625/PC_Creative%20refresh/Biryani_2.png",
+                        "v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Upma.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/83649?collection_id=83649&tags=layout_CCS_Biryani&type=rcv2",
-                        text: "Biryani",
+                        link: "https://www.swiggy.com/collections/80412?collection_id=80412&tags=layout_BAU_Contextual%2Cupma&type=rcv2",
+                        text: "Upma",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurants curated for biryani",
+                        altText: "restaurants curated for upma",
+                        altTextCta: "open",
+                      },
+                      entityId: "80412",
+                      frequencyCapping: {},
+                    },
+                    {
+                      id: "750203",
+                      imageId:
+                        "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/80476?collection_id=80476&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                        text: "Paratha",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurants curated for paratha",
+                        altTextCta: "open",
+                      },
+                      entityId: "80476",
+                      frequencyCapping: {},
+                    },
+                    {
+                      id: "750231",
+                      imageId:
+                        "v1674029857/PC_Creative%20refresh/3D_bau/banners_new/Poha.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/80374?collection_id=80374&tags=layout_CCS_Poha&type=rcv2",
+                        text: "Poha",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurants curated for poha",
                         altTextCta: "open",
                       },
                       entityId:
-                        "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
-                      frequencyCapping: {},
-                    },
-                    {
-                      id: "749774",
-                      imageId:
-                        "v1674029855/PC_Creative%20refresh/3D_bau/banners_new/Noodles.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80464?collection_id=80464&tags=layout_BAU_Contextual%2Cnoodles&type=rcv2",
-                        text: "Noodles",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurant curated for noodles",
-                        altTextCta: "open",
-                      },
-                      entityId: "80464",
+                        "swiggy://collectionV2?collection_id=80374&tags=layout_CCS_Poha",
                       frequencyCapping: {},
                     },
                     {
@@ -889,24 +724,6 @@ const restaurantDataList = [
                         altTextCta: "open",
                       },
                       entityId: "80397",
-                      frequencyCapping: {},
-                    },
-                    {
-                      id: "749769",
-                      imageId:
-                        "v1674029852/PC_Creative%20refresh/3D_bau/banners_new/Momos.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80462?collection_id=80462&tags=layout_CCS_Momos&type=rcv2",
-                        text: "Momos",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurant curated for momos",
-                        altTextCta: "open",
-                      },
-                      entityId:
-                        "swiggy://collectionV2?collection_id=80462&tags=layout_CCS_Momos",
                       frequencyCapping: {},
                     },
                     {
@@ -928,24 +745,6 @@ const restaurantDataList = [
                       frequencyCapping: {},
                     },
                     {
-                      id: "750217",
-                      imageId:
-                        "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pav_Bhaji.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80364?collection_id=80364&tags=layout_PavBhaji_Contextual&type=rcv2",
-                        text: "Pav Bhaji",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurant curated for pav bhaji",
-                        altTextCta: "open",
-                      },
-                      entityId:
-                        "swiggy://collectionV2?collection_id=80364&tags=layout_PavBhaji_Contextual",
-                      frequencyCapping: {},
-                    },
-                    {
                       id: "749874",
                       imageId:
                         "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
@@ -961,40 +760,6 @@ const restaurantDataList = [
                       },
                       entityId:
                         "swiggy://collectionV2?collection_id=83656&tags=layout_CCS_Cake",
-                      frequencyCapping: {},
-                    },
-                    {
-                      id: "749761",
-                      imageId:
-                        "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Khichdi.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80456?collection_id=80456&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
-                        text: "Khichdi",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurants curated for khicdhi",
-                        altTextCta: "open",
-                      },
-                      entityId: "80456",
-                      frequencyCapping: {},
-                    },
-                    {
-                      id: "750207",
-                      imageId:
-                        "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pasta.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80480?collection_id=80480&tags=layout_BAU_Contextual%2Cpasta%2Cads_pc_pasta&type=rcv2",
-                        text: "Pasta",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurant curated for pasta",
-                        altTextCta: "open",
-                      },
-                      entityId: "80480",
                       frequencyCapping: {},
                     },
                     {
@@ -1015,21 +780,21 @@ const restaurantDataList = [
                       frequencyCapping: {},
                     },
                     {
-                      id: "750249",
+                      id: "750572",
                       imageId:
-                        "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Shawarma.png",
+                        "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/80403?collection_id=80403&tags=layout_Shawarma_Contextual&type=rcv2",
-                        text: "Shawarma",
+                        link: "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+                        text: "Pure Veg",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurant curated for shawarma",
+                        altText: "restaurants curated for veg",
                         altTextCta: "open",
                       },
                       entityId:
-                        "swiggy://collectionV2?collection_id=80403&tags=layout_Shawarma_Contextual",
+                        "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
                       frequencyCapping: {},
                     },
                     {
@@ -1051,6 +816,24 @@ const restaurantDataList = [
                       frequencyCapping: {},
                     },
                     {
+                      id: "750599",
+                      imageId:
+                        "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Coffee.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/83908?collection_id=83908&tags=layout_CCS_Coffee&type=rcv2",
+                        text: "Coffee",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurants curated for coffee",
+                        altTextCta: "open",
+                      },
+                      entityId:
+                        "swiggy://collectionV2?collection_id=83908&tags=layout_CCS_Coffee",
+                      frequencyCapping: {},
+                    },
+                    {
                       id: "750226",
                       imageId:
                         "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Salad.png",
@@ -1066,24 +849,6 @@ const restaurantDataList = [
                       },
                       entityId:
                         "swiggy://collectionV2?collection_id=80395&tags=layout_CCS_Salad",
-                      frequencyCapping: {},
-                    },
-                    {
-                      id: "749879",
-                      imageId:
-                        "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
-                      action: {
-                        link: "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
-                        text: "Chole Bhature",
-                        type: "WEBLINK",
-                      },
-                      entityType: "BANNER",
-                      accessibility: {
-                        altText: "restaurant curated for chhole bhatoore",
-                        altTextCta: "open",
-                      },
-                      entityId:
-                        "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
                       frequencyCapping: {},
                     },
                     {
@@ -1105,37 +870,89 @@ const restaurantDataList = [
                       frequencyCapping: {},
                     },
                     {
-                      id: "750237",
+                      id: "750638",
                       imageId:
-                        "v1674029855/PC_Creative%20refresh/3D_bau/banners_new/Poori.png",
+                        "v1674029843/PC_Creative%20refresh/3D_bau/banners_new/Juice.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/80378?collection_id=80378&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
-                        text: "Poori",
+                        link: "https://www.swiggy.com/collections/80446?collection_id=80446&tags=layout_Juices_Contextual&type=rcv2",
+                        text: "Juice",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurant curated for poori",
+                        altText: "restaurants curated for juice",
                         altTextCta: "open",
                       },
-                      entityId: "80378",
+                      entityId:
+                        "swiggy://collectionV2?collection_id=80446&tags=layout_Juices_Contextual",
                       frequencyCapping: {},
                     },
                     {
-                      id: "750640",
+                      id: "750198",
                       imageId:
-                        "v1674029847/PC_Creative%20refresh/3D_bau/banners_new/Kachori.png",
+                        "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Pancake.png",
                       action: {
-                        link: "https://www.swiggy.com/collections/80450?collection_id=80450&tags=layout_BAU_Contextual%2Ckachori&type=rcv2",
-                        text: "Kachori",
+                        link: "https://www.swiggy.com/collections/80472?collection_id=80472&tags=layout_BAU_Contextual%2Cpancake&type=rcv2",
+                        text: "Pancakes",
                         type: "WEBLINK",
                       },
                       entityType: "BANNER",
                       accessibility: {
-                        altText: "restaurant curated for kachori",
+                        altText: "restaurant curated for pancake",
                         altTextCta: "open",
                       },
-                      entityId: "80450",
+                      entityId: "80472",
+                      frequencyCapping: {},
+                    },
+                    {
+                      id: "749761",
+                      imageId:
+                        "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Khichdi.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/80456?collection_id=80456&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
+                        text: "Khichdi",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurants curated for khicdhi",
+                        altTextCta: "open",
+                      },
+                      entityId: "80456",
+                      frequencyCapping: {},
+                    },
+                    {
+                      id: "749789",
+                      imageId:
+                        "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Omelette.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/80468?collection_id=80468&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
+                        text: "Omelette",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurant curated for omelette",
+                        altTextCta: "open",
+                      },
+                      entityId: "80468",
+                      frequencyCapping: {},
+                    },
+                    {
+                      id: "749791",
+                      imageId:
+                        "v1674029852/PC_Creative%20refresh/3D_bau/banners_new/Pakodas.png",
+                      action: {
+                        link: "https://www.swiggy.com/collections/80470?collection_id=80470&tags=layout_BAU_Contextual%2Cpakoda&type=rcv2",
+                        text: "Pakoda",
+                        type: "WEBLINK",
+                      },
+                      entityType: "BANNER",
+                      accessibility: {
+                        altText: "restaurant curated for pakoda",
+                        altTextCta: "open",
+                      },
+                      entityId: "80470",
                       frequencyCapping: {},
                     },
                   ],
@@ -1216,6 +1033,338 @@ const restaurantDataList = [
                   restaurants: [
                     {
                       info: {
+                        id: "78428",
+                        name: "Irani Cafe",
+                        cloudinaryImageId: "chzgh6wmt5r4b8wsfq3g",
+                        locality: "BG Shirke Road",
+                        areaName: "Magarpatta",
+                        costForTwo: "₹200 for two",
+                        cuisines: [
+                          "Bakery",
+                          "Snacks",
+                          "Fast Food",
+                          "Desserts",
+                          "Beverages",
+                          "Indian",
+                          "Street Food",
+                        ],
+                        avgRating: 4.4,
+                        feeDetails: {
+                          restaurantId: "78428",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 5600,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 5600,
+                        },
+                        parentId: "4057",
+                        avgRatingString: "4.4",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 33,
+                          lastMileTravel: 6.1,
+                          serviceability: "SERVICEABLE",
+                          slaString: "33 mins",
+                          lastMileTravelString: "6.1 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 22:30:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        aggregatedDiscountInfoV2: {},
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/irani-cafe-bg-shirke-road-magarpatta-pune-78428",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "436387",
+                        name: "Cupcake Bliss Cake & Desserts",
+                        cloudinaryImageId: "40f193d8b23afb2988489dac1258962f",
+                        locality: "D P Road",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹200 for two",
+                        cuisines: [
+                          "Bakery",
+                          "Desserts",
+                          "Ice Cream",
+                          "Beverages",
+                        ],
+                        avgRating: 4.1,
+                        feeDetails: {
+                          restaurantId: "436387",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 4400,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 4400,
+                        },
+                        parentId: "66732",
+                        avgRatingString: "4.1",
+                        totalRatingsString: "100+",
+                        sla: {
+                          deliveryTime: 31,
+                          lastMileTravel: 4.4,
+                          serviceability: "SERVICEABLE",
+                          slaString: "31 mins",
+                          lastMileTravelString: "4.4 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 02:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "40% OFF",
+                          subHeader: "UPTO ₹80",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/cupcake-bliss-cake-and-desserts-d-p-road-hadapsar-pune-436387",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "436391",
+                        name: "WarmOven Cake & Desserts",
+                        cloudinaryImageId: "e938fb5f416cc2c28b4b519cf27b04cc",
+                        locality: "D P Road",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹200 for two",
+                        cuisines: [
+                          "Bakery",
+                          "Desserts",
+                          "Ice Cream",
+                          "Beverages",
+                        ],
+                        avgRating: 4.4,
+                        feeDetails: {
+                          restaurantId: "436391",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 4400,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 4400,
+                        },
+                        parentId: "9696",
+                        avgRatingString: "4.4",
+                        totalRatingsString: "1K+",
+                        sla: {
+                          deliveryTime: 30,
+                          lastMileTravel: 4.4,
+                          serviceability: "SERVICEABLE",
+                          slaString: "30 mins",
+                          lastMileTravelString: "4.4 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 02:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "40% OFF",
+                          subHeader: "UPTO ₹80",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/warmoven-cake-and-desserts-d-p-road-hadapsar-pune-436391",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "436683",
+                        name: "Indiana Burgers",
+                        cloudinaryImageId: "j37n92wemfrb67xtccjn",
+                        locality: "D P Road",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹150 for two",
+                        cuisines: [
+                          "Burgers",
+                          "American",
+                          "Fast Food",
+                          "Beverages",
+                          "Desserts",
+                        ],
+                        avgRating: 4.2,
+                        feeDetails: {
+                          restaurantId: "436683",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 4400,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 4400,
+                        },
+                        parentId: "5714",
+                        avgRatingString: "4.2",
+                        totalRatingsString: "100+",
+                        sla: {
+                          deliveryTime: 33,
+                          lastMileTravel: 4.4,
+                          serviceability: "SERVICEABLE",
+                          slaString: "33 mins",
+                          lastMileTravelString: "4.4 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 02:00:00",
+                          opened: true,
+                        },
+                        badges: {
+                          textExtendedBadges: [
+                            {
+                              iconId: "guiltfree/GF_Logo_android_3x",
+                              shortDescription: "options available",
+                              fontColor: "#7E808C",
+                            },
+                          ],
+                        },
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {
+                              badgeObject: [
+                                {
+                                  attributes: {
+                                    description: "",
+                                    fontColor: "#7E808C",
+                                    iconId: "guiltfree/GF_Logo_android_3x",
+                                    shortDescription: "options available",
+                                  },
+                                },
+                              ],
+                            },
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "40% OFF",
+                          subHeader: "UPTO ₹80",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/indiana-burgers-d-p-road-hadapsar-pune-436683",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
                         id: "358845",
                         name: "Theobroma",
                         cloudinaryImageId: "b033728dcb0101ceb19bff0e1e1f6474",
@@ -1229,7 +1378,7 @@ const restaurantDataList = [
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 6500,
+                              fee: 5500,
                             },
                             {
                               name: "BASE_TIME",
@@ -1238,21 +1387,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 6500,
+                          totalFee: 5500,
                         },
                         parentId: "1040",
                         avgRatingString: "4.4",
                         totalRatingsString: "1K+",
                         sla: {
-                          deliveryTime: 32,
+                          deliveryTime: 28,
                           lastMileTravel: 5.7,
                           serviceability: "SERVICEABLE",
-                          slaString: "32 mins",
+                          slaString: "28 mins",
                           lastMileTravelString: "5.7 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-02 00:00:00",
+                          nextCloseTime: "2023-10-07 00:00:00",
                           opened: true,
                         },
                         badges: {
@@ -1306,191 +1455,25 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "170439",
-                        name: "Oven Story Pizza - Standout Toppings",
-                        cloudinaryImageId: "f986df6f1a1fcf2ff24d2eaf44d570a7",
-                        locality: "Keshav Nagar",
-                        areaName: "Mundhwa",
-                        costForTwo: "₹600 for two",
-                        cuisines: [
-                          "Pizzas",
-                          "Pastas",
-                          "Italian",
-                          "Desserts",
-                          "Beverages",
-                        ],
-                        avgRating: 4.1,
-                        feeDetails: {
-                          restaurantId: "170439",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 6700,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 6700,
-                        },
-                        parentId: "3534",
-                        avgRatingString: "4.1",
-                        totalRatingsString: "1K+",
-                        sla: {
-                          deliveryTime: 34,
-                          lastMileTravel: 5,
-                          serviceability: "SERVICEABLE",
-                          slaString: "29-39 mins",
-                          lastMileTravelString: "5.0 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "50% OFF",
-                          subHeader: "UPTO ₹100",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-keshav-nagar-mundhwa-pune-170439",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "64060",
-                        name: "NIC Ice Creams",
-                        cloudinaryImageId: "c8b98c4064dc2fd6bdf350212e5f0bd5",
-                        locality: "Ghorpadi Nagar",
-                        areaName: "Mundhwa",
-                        costForTwo: "₹120 for two",
-                        cuisines: ["Ice Cream", "Desserts"],
-                        avgRating: 4.6,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "64060",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 6300,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 6300,
-                        },
-                        parentId: "6249",
-                        avgRatingString: "4.6",
-                        totalRatingsString: "10K+",
-                        sla: {
-                          deliveryTime: 36,
-                          lastMileTravel: 6,
-                          serviceability: "SERVICEABLE",
-                          slaString: "36 mins",
-                          lastMileTravelString: "6.0 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 00:00:00",
-                          opened: true,
-                        },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                          ],
-                        },
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                              ],
-                            },
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "EVERY ITEM",
-                          subHeader: "@ ₹149",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/nic-ice-creams-ghorpadi-nagar-mundhwa-pune-64060",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "355391",
-                        name: "Apsara Ice Creams",
-                        cloudinaryImageId: "blv1vtraz0dxpc9rt33y",
-                        locality: "Magarpatta Road",
+                        id: "436694",
+                        name: "Kaati Zone Rolls & Wraps",
+                        cloudinaryImageId: "gjhl527nvuu06bzeginm",
+                        locality: "DP Road",
                         areaName: "Hadapsar",
                         costForTwo: "₹150 for two",
-                        cuisines: ["Ice Cream", "Desserts"],
-                        avgRating: 4.7,
-                        veg: true,
+                        cuisines: [
+                          "Fast Food",
+                          "Bengali",
+                          "Beverages",
+                          "Desserts",
+                        ],
+                        avgRating: 3.7,
                         feeDetails: {
-                          restaurantId: "355391",
+                          restaurantId: "436694",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 5700,
+                              fee: 4400,
                             },
                             {
                               name: "BASE_TIME",
@@ -1499,30 +1482,24 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 5700,
+                          totalFee: 4400,
                         },
-                        parentId: "35219",
-                        avgRatingString: "4.7",
-                        totalRatingsString: "1K+",
+                        parentId: "248306",
+                        avgRatingString: "3.7",
+                        totalRatingsString: "100+",
                         sla: {
-                          deliveryTime: 32,
-                          lastMileTravel: 5.6,
+                          deliveryTime: 30,
+                          lastMileTravel: 4.4,
                           serviceability: "SERVICEABLE",
-                          slaString: "32 mins",
-                          lastMileTravelString: "5.6 km",
+                          slaString: "30 mins",
+                          lastMileTravelString: "4.4 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-07 02:00:00",
                           opened: true,
                         },
                         badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                          ],
                           textExtendedBadges: [
                             {
                               iconId: "guiltfree/GF_Logo_android_3x",
@@ -1532,21 +1509,10 @@ const restaurantDataList = [
                           ],
                         },
                         isOpen: true,
-                        aggregatedDiscountInfoV2: {},
                         type: "F",
                         badgesV2: {
                           entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                              ],
-                            },
+                            imageBased: {},
                             textBased: {},
                             textExtendedBadges: {
                               badgeObject: [
@@ -1562,148 +1528,9 @@ const restaurantDataList = [
                             },
                           },
                         },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/apsara-ice-creams-magarpatta-road-hadapsar-pune-355391",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "23712",
-                        name: "McDonald's",
-                        cloudinaryImageId: "ee5f8e06b300efc07c9fe3f4df40dfc4",
-                        locality: "Amanora Town",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹400 for two",
-                        cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
-                        avgRating: 4.3,
-                        feeDetails: {
-                          restaurantId: "23712",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 6900,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 6900,
-                        },
-                        parentId: "630",
-                        avgRatingString: "4.3",
-                        totalRatingsString: "10K+",
-                        sla: {
-                          deliveryTime: 45,
-                          lastMileTravel: 7.4,
-                          serviceability: "SERVICEABLE",
-                          slaString: "45 mins",
-                          lastMileTravelString: "7.4 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 00:45:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/mcdonalds-amanora-town-hadapsar-pune-23712",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "159428",
-                        name: "Burger King",
-                        cloudinaryImageId: "e33e1d3ba7d6b2bb0d45e1001b731fcf",
-                        locality: "Amanora Town",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹350 for two",
-                        cuisines: ["Burgers", "American"],
-                        avgRating: 4.1,
-                        feeDetails: {
-                          restaurantId: "159428",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 6300,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 6300,
-                        },
-                        parentId: "166",
-                        avgRatingString: "4.1",
-                        totalRatingsString: "10K+",
-                        sla: {
-                          deliveryTime: 42,
-                          lastMileTravel: 6.8,
-                          serviceability: "SERVICEABLE",
-                          slaString: "42 mins",
-                          lastMileTravelString: "6.8 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 02:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
                         aggregatedDiscountInfoV3: {
-                          header: "60% OFF",
-                          subHeader: "UPTO ₹120",
+                          header: "40% OFF",
+                          subHeader: "UPTO ₹80",
                         },
                         differentiatedUi: {
                           displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1719,477 +1546,7 @@ const restaurantDataList = [
                       },
                       analytics: {},
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/burger-king-amanora-town-hadapsar-pune-159428",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "16062",
-                        name: "KFC",
-                        cloudinaryImageId: "56c9ab92bd79745fd152a30fa2525426",
-                        locality: "Amanora Town",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹400 for two",
-                        cuisines: [
-                          "Burgers",
-                          "Biryani",
-                          "American",
-                          "Snacks",
-                          "Fast Food",
-                        ],
-                        avgRating: 4,
-                        feeDetails: {
-                          restaurantId: "16062",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 7300,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 7300,
-                        },
-                        parentId: "547",
-                        avgRatingString: "4.0",
-                        totalRatingsString: "10K+",
-                        sla: {
-                          deliveryTime: 40,
-                          lastMileTravel: 6.8,
-                          serviceability: "SERVICEABLE",
-                          slaString: "40 mins",
-                          lastMileTravelString: "6.8 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 03:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "20% OFF",
-                          subHeader: "UPTO ₹50",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/kfc-amanora-town-hadapsar-pune-16062",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "32452",
-                        name: "Natural Ice Cream",
-                        cloudinaryImageId: "ujpwx5dqoeffocv5xp4k",
-                        locality: "Magarpatta Road",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹150 for two",
-                        cuisines: ["Ice Cream", "Desserts"],
-                        avgRating: 4.6,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "32452",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 5700,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 5700,
-                        },
-                        parentId: "2093",
-                        avgRatingString: "4.6",
-                        totalRatingsString: "5K+",
-                        sla: {
-                          deliveryTime: 29,
-                          lastMileTravel: 5.6,
-                          serviceability: "SERVICEABLE",
-                          slaString: "29 mins",
-                          lastMileTravelString: "5.6 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:30:00",
-                          opened: true,
-                        },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                          ],
-                        },
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                              ],
-                            },
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "20% OFF",
-                          subHeader: "UPTO ₹50",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/natural-ice-cream-magarpatta-road-hadapsar-pune-32452",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "39939",
-                        name: "Rolls Mania",
-                        cloudinaryImageId: "qmjs8ivpylckpupdxdch",
-                        locality: "Solapur Road",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹200 for two",
-                        cuisines: ["Fast Food", "Snacks"],
-                        avgRating: 4.3,
-                        feeDetails: {
-                          restaurantId: "39939",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 4100,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 4100,
-                        },
-                        parentId: "171118",
-                        avgRatingString: "4.3",
-                        totalRatingsString: "5K+",
-                        sla: {
-                          deliveryTime: 27,
-                          lastMileTravel: 3.6,
-                          serviceability: "SERVICEABLE",
-                          slaString: "27 mins",
-                          lastMileTravelString: "3.6 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 22:59:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "50% OFF",
-                          subHeader: "UPTO ₹100",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/rolls-mania-solapur-road-hadapsar-pune-39939",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "354834",
-                        name: "Wow! Momo",
-                        cloudinaryImageId: "0984acc0ed7b914206dbbcb90297becc",
-                        locality: "Kharadi",
-                        areaName: "Kharadi",
-                        costForTwo: "₹300 for two",
-                        cuisines: [
-                          "Tibetan",
-                          "Healthy Food",
-                          "Asian",
-                          "Chinese",
-                          "Snacks",
-                          "Continental",
-                          "Desserts",
-                          "Beverages",
-                        ],
-                        avgRating: 4.1,
-                        feeDetails: {
-                          restaurantId: "354834",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 9900,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 9900,
-                        },
-                        parentId: "1776",
-                        avgRatingString: "4.1",
-                        totalRatingsString: "1K+",
-                        sla: {
-                          deliveryTime: 44,
-                          lastMileTravel: 9.4,
-                          serviceability: "SERVICEABLE",
-                          slaString: "44 mins",
-                          lastMileTravelString: "9.4 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/wow-momo-kharadi-pune-354834",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "3065",
-                        name: "Subway",
-                        cloudinaryImageId: "1ace5fa65eff3e1223feb696c956b38b",
-                        locality: "Season Mall",
-                        areaName: "Magarpatta",
-                        costForTwo: "₹350 for two",
-                        cuisines: [
-                          "Healthy Food",
-                          "Salads",
-                          "Snacks",
-                          "Desserts",
-                          "Beverages",
-                        ],
-                        avgRating: 3.6,
-                        feeDetails: {
-                          restaurantId: "3065",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 6300,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 6300,
-                        },
-                        parentId: "2",
-                        avgRatingString: "3.6",
-                        totalRatingsString: "10K+",
-                        sla: {
-                          deliveryTime: 52,
-                          lastMileTravel: 6.3,
-                          serviceability: "SERVICEABLE",
-                          slaString: "52 mins",
-                          lastMileTravelString: "6.3 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:01:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "20% OFF",
-                          subHeader: "UPTO ₹50",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/subway-season-mall-magarpatta-pune-3065",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "14777",
-                        name: "Pizza Hut",
-                        cloudinaryImageId: "2b4f62d606d1b2bfba9ba9e5386fabb7",
-                        areaName: "Magarpatta",
-                        costForTwo: "₹350 for two",
-                        cuisines: ["Pizzas"],
-                        avgRating: 3.7,
-                        feeDetails: {
-                          restaurantId: "14777",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 8400,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 8400,
-                        },
-                        parentId: "721",
-                        avgRatingString: "3.7",
-                        totalRatingsString: "5K+",
-                        sla: {
-                          deliveryTime: 53,
-                          lastMileTravel: 8.1,
-                          serviceability: "SERVICEABLE",
-                          slaString: "53 mins",
-                          lastMileTravelString: "8.1 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 05:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/pizza-hut-magarpatta-pune-14777",
+                        link: "https://www.swiggy.com/restaurants/kaati-zone-rolls-and-wraps-dp-road-hadapsar-pune-436694",
                         type: "WEBLINK",
                       },
                     },
@@ -2230,15 +1587,15 @@ const restaurantDataList = [
                         avgRatingString: "3.9",
                         totalRatingsString: "5K+",
                         sla: {
-                          deliveryTime: 35,
+                          deliveryTime: 31,
                           lastMileTravel: 4.8,
                           serviceability: "SERVICEABLE",
-                          slaString: "35 mins",
+                          slaString: "31 mins",
                           lastMileTravelString: "4.8 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-06 23:59:00",
                           opened: true,
                         },
                         badges: {
@@ -2294,88 +1651,6 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "435755",
-                        name: "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
-                        cloudinaryImageId: "pqzgabnqwhdmcerbira4",
-                        locality: "Hadapsar",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹250 for two",
-                        cuisines: [
-                          "Beverages",
-                          "Desserts",
-                          "Ice Cream",
-                          "Waffle",
-                          "Bakery",
-                          "Healthy Food",
-                        ],
-                        avgRating: 4.3,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "435755",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 5700,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 5700,
-                        },
-                        parentId: "5655",
-                        avgRatingString: "4.3",
-                        totalRatingsString: "1K+",
-                        sla: {
-                          deliveryTime: 34,
-                          lastMileTravel: 5.6,
-                          serviceability: "SERVICEABLE",
-                          slaString: "34 mins",
-                          lastMileTravelString: "5.6 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-02 02:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "₹125 OFF",
-                          subHeader: "ABOVE ₹249",
-                          discountTag: "FLAT DEAL",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/frozen-bottle-milkshakes-desserts-and-ice-cream-hadapsar-pune-435755",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
                         id: "35871",
                         name: "Sweet Truth - Cake and Desserts",
                         cloudinaryImageId: "4a3b48488e3aa9bda13efd8cfcd95284",
@@ -2404,15 +1679,15 @@ const restaurantDataList = [
                         avgRatingString: "4.2",
                         totalRatingsString: "1K+",
                         sla: {
-                          deliveryTime: 33,
+                          deliveryTime: 32,
                           lastMileTravel: 4.8,
                           serviceability: "SERVICEABLE",
-                          slaString: "33 mins",
+                          slaString: "32 mins",
                           lastMileTravelString: "4.8 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-06 23:59:00",
                           opened: true,
                         },
                         badges: {},
@@ -2449,27 +1724,26 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "155439",
-                        name: "The Good Bowl",
-                        cloudinaryImageId: "0b3356a88b6fc5966c452c4c9b1b5e4a",
-                        locality: "Dp Road",
+                        id: "3065",
+                        name: "Subway",
+                        cloudinaryImageId: "1ace5fa65eff3e1223feb696c956b38b",
+                        locality: "Season Mall",
                         areaName: "Magarpatta",
-                        costForTwo: "₹400 for two",
+                        costForTwo: "₹350 for two",
                         cuisines: [
-                          "Biryani",
-                          "North Indian",
-                          "Pastas",
-                          "Punjabi",
+                          "Healthy Food",
+                          "Salads",
+                          "Snacks",
                           "Desserts",
                           "Beverages",
                         ],
-                        avgRating: 4.1,
+                        avgRating: 3.6,
                         feeDetails: {
-                          restaurantId: "155439",
+                          restaurantId: "3065",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 4400,
+                              fee: 5600,
                             },
                             {
                               name: "BASE_TIME",
@@ -2478,21 +1752,94 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 4400,
+                          totalFee: 5600,
                         },
-                        parentId: "7918",
-                        avgRatingString: "4.1",
-                        totalRatingsString: "1K+",
+                        parentId: "2",
+                        avgRatingString: "3.6",
+                        totalRatingsString: "10K+",
                         sla: {
-                          deliveryTime: 35,
-                          lastMileTravel: 4.8,
+                          deliveryTime: 53,
+                          lastMileTravel: 6.3,
                           serviceability: "SERVICEABLE",
-                          slaString: "35 mins",
-                          lastMileTravelString: "4.8 km",
+                          slaString: "53 mins",
+                          lastMileTravelString: "6.3 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-06 23:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "20% OFF",
+                          subHeader: "UPTO ₹50",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/subway-season-mall-magarpatta-pune-3065",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "23675",
+                        name: "McDonald's",
+                        cloudinaryImageId: "ee5f8e06b300efc07c9fe3f4df40dfc4",
+                        locality: "Kalyani Nagar",
+                        areaName: "Kalyani Nagar",
+                        costForTwo: "₹400 for two",
+                        cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
+                        avgRating: 4.3,
+                        feeDetails: {
+                          restaurantId: "23675",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 9200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 9200,
+                        },
+                        parentId: "630",
+                        avgRatingString: "4.3",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 37,
+                          lastMileTravel: 9.7,
+                          serviceability: "SERVICEABLE",
+                          slaString: "37 mins",
+                          lastMileTravelString: "9.7 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 00:45:00",
                           opened: true,
                         },
                         badges: {},
@@ -2520,35 +1867,35 @@ const restaurantDataList = [
                       },
                       analytics: {},
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/the-good-bowl-dp-road-magarpatta-pune-155439",
+                        link: "https://www.swiggy.com/restaurants/mcdonalds-kalyani-nagar-pune-23675",
                         type: "WEBLINK",
                       },
                     },
                     {
                       info: {
-                        id: "170433",
-                        name: "Faasos - Wraps & Rolls",
-                        cloudinaryImageId: "af33b81798b11deba338e94b7585d348",
-                        locality: "Keshav Nagar",
-                        areaName: "Mundhwa",
-                        costForTwo: "₹200 for two",
+                        id: "32294",
+                        name: "Chai Point",
+                        cloudinaryImageId: "dxbsmxiy0wsdk8vnytjh",
+                        locality: "Magarpatta",
+                        areaName: "Magarpatta",
+                        costForTwo: "₹150 for two",
                         cuisines: [
-                          "Kebabs",
-                          "Fast Food",
-                          "Snacks",
-                          "North Indian",
-                          "American",
                           "Healthy Food",
-                          "Desserts",
+                          "Bakery",
                           "Beverages",
+                          "Maharashtrian",
+                          "Snacks",
+                          "Street Food",
+                          "South Indian",
+                          "Punjabi",
                         ],
-                        avgRating: 4.1,
+                        avgRating: 4.3,
                         feeDetails: {
-                          restaurantId: "170433",
+                          restaurantId: "32294",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 5700,
+                              fee: 6200,
                             },
                             {
                               name: "BASE_TIME",
@@ -2557,21 +1904,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 5700,
+                          totalFee: 6200,
                         },
-                        parentId: "21809",
-                        avgRatingString: "4.1",
-                        totalRatingsString: "1K+",
+                        parentId: "1607",
+                        avgRatingString: "4.3",
+                        totalRatingsString: "10K+",
                         sla: {
-                          deliveryTime: 40,
-                          lastMileTravel: 5,
+                          deliveryTime: 54,
+                          lastMileTravel: 7.9,
                           serviceability: "SERVICEABLE",
-                          slaString: "40 mins",
-                          lastMileTravelString: "5.0 km",
+                          slaString: "54 mins",
+                          lastMileTravelString: "7.9 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-06 18:00:00",
                           opened: true,
                         },
                         badges: {
@@ -2584,7 +1931,6 @@ const restaurantDataList = [
                           ],
                         },
                         isOpen: true,
-                        aggregatedDiscountInfoV2: {},
                         type: "F",
                         badgesV2: {
                           entityBadges: {
@@ -2604,6 +1950,10 @@ const restaurantDataList = [
                             },
                           },
                         },
+                        aggregatedDiscountInfoV3: {
+                          header: "60% OFF",
+                          subHeader: "UPTO ₹120",
+                        },
                         differentiatedUi: {
                           displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
                           differentiatedUiMediaDetails: {
@@ -2618,32 +1968,188 @@ const restaurantDataList = [
                       },
                       analytics: {},
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/faasos-wraps-and-rolls-keshav-nagar-mundhwa-pune-170433",
+                        link: "https://www.swiggy.com/restaurants/chai-point-magarpatta-pune-32294",
                         type: "WEBLINK",
                       },
                     },
                     {
                       info: {
-                        id: "66188",
-                        name: "The Belgian Waffle Co.",
-                        cloudinaryImageId: "8cb220fa3997a3b928d2ffb6c098acaf",
-                        locality: "Destination Centre",
-                        areaName: "Magarpatta",
-                        costForTwo: "₹200 for two",
+                        id: "159428",
+                        name: "Burger King",
+                        cloudinaryImageId: "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                        locality: "Amanora Town",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹350 for two",
+                        cuisines: ["Burgers", "American"],
+                        avgRating: 4.1,
+                        feeDetails: {
+                          restaurantId: "159428",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 5000,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 5000,
+                        },
+                        parentId: "166",
+                        avgRatingString: "4.1",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 42,
+                          lastMileTravel: 5.5,
+                          serviceability: "SERVICEABLE",
+                          slaString: "42 mins",
+                          lastMileTravelString: "5.5 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 02:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "EVERY ITEM",
+                          subHeader: "@ ₹129",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/burger-king-amanora-town-hadapsar-pune-159428",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "11181",
+                        name: "Apna Punjab",
+                        cloudinaryImageId: "hzn6pp3knfahfphywcqr",
+                        locality: "Amanora Town",
+                        areaName: "Magarpatta City",
+                        costForTwo: "₹300 for two",
                         cuisines: [
-                          "Waffle",
+                          "Punjabi",
+                          "North Indian",
+                          "Chinese",
+                          "Tandoor",
+                          "Biryani",
+                          "Thalis",
+                          "Street Food",
+                        ],
+                        avgRating: 4,
+                        feeDetails: {
+                          restaurantId: "11181",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 6200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 6200,
+                        },
+                        parentId: "63",
+                        avgRatingString: "4.0",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 54,
+                          lastMileTravel: 7.9,
+                          serviceability: "SERVICEABLE",
+                          slaString: "54 mins",
+                          lastMileTravelString: "7.9 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 01:30:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "₹125 OFF",
+                          subHeader: "ABOVE ₹249",
+                          discountTag: "FLAT DEAL",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/apna-punjab-amanora-town-magarpatta-city-pune-11181",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "13906",
+                        name: "Wadeshwar",
+                        cloudinaryImageId: "ee51fzavw0jgsryxkavp",
+                        locality: "Kalyani Nagar",
+                        areaName: "Kalyani Nagar",
+                        costForTwo: "₹350 for two",
+                        cuisines: [
+                          "South Indian",
+                          "North Indian",
+                          "Chinese",
+                          "Street Food",
                           "Desserts",
-                          "Ice Cream",
                           "Beverages",
                         ],
-                        avgRating: 4.3,
-                        veg: true,
+                        avgRating: 4.2,
                         feeDetails: {
-                          restaurantId: "66188",
+                          restaurantId: "13906",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 5700,
+                              fee: 9700,
                             },
                             {
                               name: "BASE_TIME",
@@ -2652,238 +2158,30 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 5700,
+                          totalFee: 9700,
                         },
-                        parentId: "2233",
-                        avgRatingString: "4.3",
-                        totalRatingsString: "1K+",
+                        parentId: "1770",
+                        avgRatingString: "4.2",
+                        totalRatingsString: "10K+",
                         sla: {
                           deliveryTime: 43,
-                          lastMileTravel: 5.6,
+                          lastMileTravel: 10.1,
                           serviceability: "SERVICEABLE",
                           slaString: "43 mins",
-                          lastMileTravelString: "5.6 km",
+                          lastMileTravelString: "10.1 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-02 02:00:00",
+                          nextCloseTime: "2023-10-06 22:55:00",
                           opened: true,
                         },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                          ],
-                        },
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                              ],
-                            },
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "20% OFF",
-                          subHeader: "UPTO ₹50",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/the-belgian-waffle-co-destination-centre-magarpatta-pune-66188",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "401470",
-                        name: "Burger Craft",
-                        cloudinaryImageId: "kvlqc2mcjdwhknluxfsq",
-                        locality: "Viman Nagar",
-                        areaName: "Viman Nagar",
-                        costForTwo: "₹800 for two",
-                        cuisines: ["American"],
-                        avgRating: 4.3,
-                        feeDetails: {
-                          restaurantId: "401470",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 12900,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 12900,
-                        },
-                        parentId: "51266",
-                        avgRatingString: "4.3",
-                        totalRatingsString: "1K+",
-                        sla: {
-                          deliveryTime: 55,
-                          lastMileTravel: 11.1,
-                          serviceability: "SERVICEABLE",
-                          slaString: "55 mins",
-                          lastMileTravelString: "11.1 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
-                          opened: true,
-                        },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1669879258/GFF_logo_new_xbycg6.png",
-                              description: "gourmet",
-                            },
-                          ],
-                        },
-                        isOpen: true,
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "gourmet",
-                                    imageId:
-                                      "v1669879258/GFF_logo_new_xbycg6.png",
-                                  },
-                                },
-                              ],
-                            },
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "50% OFF",
-                          subHeader: "UPTO ₹100",
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {},
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/burger-craft-viman-nagar-pune-401470",
-                        type: "WEBLINK",
-                      },
-                    },
-                    {
-                      info: {
-                        id: "48332",
-                        name: "ROYCE' Chocolate",
-                        cloudinaryImageId: "f4886f8a207f7fcd746099d924614c04",
-                        locality: "Viman Nagar",
-                        areaName: "Viman Nagar",
-                        costForTwo: "₹750 for two",
-                        cuisines: ["Desserts"],
-                        avgRating: 4.7,
-                        feeDetails: {
-                          restaurantId: "48332",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 11900,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 11900,
-                        },
-                        parentId: "5168",
-                        avgRatingString: "4.7",
-                        totalRatingsString: "100+",
-                        sla: {
-                          deliveryTime: 50,
-                          lastMileTravel: 11.4,
-                          serviceability: "SERVICEABLE",
-                          slaString: "50 mins",
-                          lastMileTravelString: "11.4 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 21:00:00",
-                          opened: true,
-                        },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                            {
-                              imageId: "newg.png",
-                              description: "Gourmet",
-                            },
-                          ],
-                        },
-                        select: true,
+                        badges: {},
                         isOpen: true,
                         aggregatedDiscountInfoV2: {},
                         type: "F",
                         badgesV2: {
                           entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                                {
-                                  attributes: {
-                                    description: "Gourmet",
-                                    imageId: "newg.png",
-                                  },
-                                },
-                              ],
-                            },
+                            imageBased: {},
                             textBased: {},
                             textExtendedBadges: {},
                           },
@@ -2902,7 +2200,528 @@ const restaurantDataList = [
                       },
                       analytics: {},
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/royce-chocolate-viman-nagar-pune-48332",
+                        link: "https://www.swiggy.com/restaurants/wadeshwar-kalyani-nagar-pune-13906",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "66351",
+                        name: "Oye Kiddan",
+                        cloudinaryImageId: "wk38shz7sl9tsncx1j1z",
+                        locality: "Sopan nagar",
+                        areaName: "Wadgaon Sheri",
+                        costForTwo: "₹250 for two",
+                        cuisines: [
+                          "Punjabi",
+                          "North Indian",
+                          "Thalis",
+                          "Desserts",
+                        ],
+                        avgRating: 4.1,
+                        feeDetails: {
+                          restaurantId: "66351",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 8200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 8200,
+                        },
+                        parentId: "690",
+                        avgRatingString: "4.1",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 44,
+                          lastMileTravel: 9.9,
+                          serviceability: "SERVICEABLE",
+                          slaString: "44 mins",
+                          lastMileTravelString: "9.9 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 15:00:00",
+                          opened: true,
+                        },
+                        badges: {
+                          textExtendedBadges: [
+                            {
+                              iconId: "guiltfree/GF_Logo_android_3x",
+                              shortDescription: "options available",
+                              fontColor: "#7E808C",
+                            },
+                          ],
+                        },
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {
+                              badgeObject: [
+                                {
+                                  attributes: {
+                                    description: "",
+                                    fontColor: "#7E808C",
+                                    iconId: "guiltfree/GF_Logo_android_3x",
+                                    shortDescription: "options available",
+                                  },
+                                },
+                              ],
+                            },
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "60% OFF",
+                          subHeader: "UPTO ₹120",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/oye-kiddan-sopan-nagar-wadgaon-sheri-pune-66351",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "4336",
+                        name: "Mad Momos",
+                        cloudinaryImageId: "hcv8u7tcc7ojmxlbmc7c",
+                        locality: "Amanora Mall",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹200 for two",
+                        cuisines: [
+                          "Chinese",
+                          "Tibetan",
+                          "Nepalese",
+                          "Pizzas",
+                          "Snacks",
+                          "Beverages",
+                        ],
+                        avgRating: 3.9,
+                        feeDetails: {
+                          restaurantId: "4336",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 5000,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 5000,
+                        },
+                        parentId: "610",
+                        avgRatingString: "3.9",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 37,
+                          lastMileTravel: 5,
+                          serviceability: "SERVICEABLE",
+                          slaString: "37 mins",
+                          lastMileTravelString: "5.0 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 06:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "₹100 OFF",
+                          subHeader: "ABOVE ₹199",
+                          discountTag: "FLAT DEAL",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/mad-momos-amanora-mall-hadapsar-pune-4336",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "395179",
+                        name: "McDonald's Gourmet Burger Collection",
+                        cloudinaryImageId: "boyfojzdqirjveo7z4r8",
+                        locality: "Mariplex Mall",
+                        areaName: "Kalyani Nagar",
+                        costForTwo: "₹600 for two",
+                        cuisines: ["Burgers", "Beverages", "Cafe", "Desserts"],
+                        avgRating: 4.2,
+                        feeDetails: {
+                          restaurantId: "395179",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 9700,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 9700,
+                        },
+                        parentId: "10761",
+                        avgRatingString: "4.2",
+                        totalRatingsString: "100+",
+                        sla: {
+                          deliveryTime: 40,
+                          lastMileTravel: 9.9,
+                          serviceability: "SERVICEABLE",
+                          slaString: "40 mins",
+                          lastMileTravelString: "9.9 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 00:45:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        aggregatedDiscountInfoV2: {},
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-mariplex-mall-kalyani-nagar-pune-395179",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "486068",
+                        name: "Momo Zone - The Momo Company",
+                        cloudinaryImageId: "nezkzas14p2arkliqwc3",
+                        locality: "Pooja Garden Socity",
+                        areaName: "Viman Nagar",
+                        costForTwo: "₹200 for two",
+                        cuisines: ["Chinese", "Tibetan", "Fast Food"],
+                        avgRating: 3.7,
+                        feeDetails: {
+                          restaurantId: "486068",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 6200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 6200,
+                        },
+                        parentId: "382343",
+                        avgRatingString: "3.7",
+                        totalRatingsString: "100+",
+                        sla: {
+                          deliveryTime: 54,
+                          lastMileTravel: 8,
+                          serviceability: "SERVICEABLE",
+                          slaString: "54 mins",
+                          lastMileTravelString: "8.0 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-07 05:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "40% OFF",
+                          subHeader: "UPTO ₹80",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/momo-zone-the-momo-company-pooja-garden-socity-viman-nagar-pune-486068",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "288390",
+                        name: "Starbucks Coffee",
+                        cloudinaryImageId: "a9447a79f29f7f80f3031630cdd8b8d2",
+                        locality: "Season Mall",
+                        areaName: "Magarpatta",
+                        costForTwo: "₹400 for two",
+                        cuisines: [
+                          "Beverages",
+                          "Cafe",
+                          "Snacks",
+                          "Desserts",
+                          "Bakery",
+                          "Ice Cream",
+                        ],
+                        avgRating: 4.2,
+                        feeDetails: {
+                          restaurantId: "288390",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 6300,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 6300,
+                        },
+                        parentId: "195515",
+                        avgRatingString: "4.2",
+                        totalRatingsString: "1K+",
+                        sla: {
+                          deliveryTime: 42,
+                          lastMileTravel: 6.4,
+                          serviceability: "SERVICEABLE",
+                          slaString: "42 mins",
+                          lastMileTravelString: "6.4 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 23:00:00",
+                          opened: true,
+                        },
+                        badges: {
+                          textExtendedBadges: [
+                            {
+                              iconId: "guiltfree/GF_Logo_android_3x",
+                              shortDescription: "options available",
+                              fontColor: "#7E808C",
+                            },
+                          ],
+                        },
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {
+                              badgeObject: [
+                                {
+                                  attributes: {
+                                    description: "",
+                                    fontColor: "#7E808C",
+                                    iconId: "guiltfree/GF_Logo_android_3x",
+                                    shortDescription: "options available",
+                                  },
+                                },
+                              ],
+                            },
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "30% OFF",
+                          subHeader: "UPTO ₹75",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/starbucks-coffee-season-mall-magarpatta-pune-288390",
+                        type: "WEBLINK",
+                      },
+                    },
+                    {
+                      info: {
+                        id: "500362",
+                        name: "EatFit",
+                        cloudinaryImageId: "6126c9b45de2cb222405c1af8a321e74",
+                        locality: "Subhash Nagar",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹270 for two",
+                        cuisines: [
+                          "Chinese",
+                          "Healthy Food",
+                          "Tandoor",
+                          "Pizzas",
+                          "North Indian",
+                          "Thalis",
+                          "Biryani",
+                        ],
+                        avgRating: 4,
+                        feeDetails: {
+                          restaurantId: "500362",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 6200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 6200,
+                        },
+                        parentId: "76139",
+                        avgRatingString: "4.0",
+                        totalRatingsString: "1K+",
+                        sla: {
+                          deliveryTime: 38,
+                          lastMileTravel: 7.9,
+                          serviceability: "SERVICEABLE",
+                          slaString: "38 mins",
+                          lastMileTravelString: "7.9 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 23:59:00",
+                          opened: true,
+                        },
+                        badges: {
+                          textExtendedBadges: [
+                            {
+                              iconId: "guiltfree/GF_Logo_android_3x",
+                              shortDescription: "brand",
+                              fontColor: "#7E808C",
+                            },
+                          ],
+                        },
+                        isOpen: true,
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {
+                              badgeObject: [
+                                {
+                                  attributes: {
+                                    description: "",
+                                    fontColor: "#7E808C",
+                                    iconId: "guiltfree/GF_Logo_android_3x",
+                                    shortDescription: "brand",
+                                  },
+                                },
+                              ],
+                            },
+                          },
+                        },
+                        aggregatedDiscountInfoV3: {
+                          header: "₹125 OFF",
+                          subHeader: "ABOVE ₹249",
+                          discountTag: "FLAT DEAL",
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {},
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/eatfit-subhash-nagar-hadapsar-pune-500362",
                         type: "WEBLINK",
                       },
                     },
@@ -2966,7 +2785,7 @@ const restaurantDataList = [
                   title: "Cost: High to Low",
                 },
               ],
-              restaurantCount: 1576,
+              restaurantCount: 915,
               facetList: [
                 {
                   label: "Delivery Time",
@@ -2989,12 +2808,6 @@ const restaurantDataList = [
                   selection: "SELECT_TYPE_MULTISELECT",
                   facetInfo: [
                     {
-                      label: "Afghani",
-                      id: "query_afghani",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
                       label: "American",
                       id: "query_american",
                       analytics: {},
@@ -3015,12 +2828,6 @@ const restaurantDataList = [
                     {
                       label: "Asian",
                       id: "query_asian",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
-                      label: "Awadhi",
-                      id: "query_awadhi",
                       analytics: {},
                       openFilter: true,
                     },
@@ -3055,12 +2862,6 @@ const restaurantDataList = [
                       openFilter: true,
                     },
                     {
-                      label: "Bihari",
-                      id: "query_bihari",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
                       label: "Biryani",
                       id: "query_biryani",
                       analytics: {},
@@ -3075,12 +2876,6 @@ const restaurantDataList = [
                     {
                       label: "British",
                       id: "query_british",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
-                      label: "Buffalo meat",
-                      id: "query_buffalo_meat",
                       analytics: {},
                       openFilter: true,
                     },
@@ -3147,18 +2942,6 @@ const restaurantDataList = [
                     {
                       label: "French",
                       id: "query_french",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
-                      label: "Goan",
-                      id: "query_goan",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
-                      label: "Grill",
-                      id: "query_grill",
                       analytics: {},
                       openFilter: true,
                     },
@@ -3259,12 +3042,6 @@ const restaurantDataList = [
                       openFilter: true,
                     },
                     {
-                      label: "Konkan",
-                      id: "query_konkan",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
                       label: "Korean",
                       id: "query_korean",
                       analytics: {},
@@ -3325,12 +3102,6 @@ const restaurantDataList = [
                       openFilter: true,
                     },
                     {
-                      label: "Nepales",
-                      id: "query_nepales",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
                       label: "Nepalese",
                       id: "query_nepalese",
                       analytics: {},
@@ -3355,14 +3126,14 @@ const restaurantDataList = [
                       openFilter: true,
                     },
                     {
-                      label: "Oriya",
-                      id: "query_oriya",
+                      label: "Other fresh meat",
+                      id: "query_other_fresh_meat",
                       analytics: {},
                       openFilter: true,
                     },
                     {
-                      label: "Other fresh meat",
-                      id: "query_other_fresh_meat",
+                      label: "Paan",
+                      id: "query_paan",
                       analytics: {},
                       openFilter: true,
                     },
@@ -3393,12 +3164,6 @@ const restaurantDataList = [
                     {
                       label: "Rajasthani",
                       id: "query_rajasthani",
-                      analytics: {},
-                      openFilter: true,
-                    },
-                    {
-                      label: "Rolls & Wraps",
-                      id: "query_rolls_&_wraps",
                       analytics: {},
                       openFilter: true,
                     },
@@ -3626,7 +3391,7 @@ const restaurantDataList = [
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 7200,
+                              fee: 6200,
                             },
                             {
                               name: "BASE_TIME",
@@ -3635,21 +3400,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 7200,
+                          totalFee: 6200,
                         },
                         parentId: "113962",
                         avgRatingString: "4.6",
                         totalRatingsString: "5K+",
                         sla: {
-                          deliveryTime: 35,
+                          deliveryTime: 31,
                           lastMileTravel: 7.4,
                           serviceability: "SERVICEABLE",
-                          slaString: "35 mins",
+                          slaString: "31 mins",
                           lastMileTravelString: "7.4 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 20:45:00",
+                          nextCloseTime: "2023-10-06 20:45:00",
                           opened: true,
                         },
                         badges: {
@@ -3703,7 +3468,7 @@ const restaurantDataList = [
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
                         link: "https://www.swiggy.com/restaurants/kalika-dairy-and-sweets-magarpatta-hadapsar-pune-180419",
@@ -3715,127 +3480,21 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "533211",
-                        name: "Mankar Dosa",
-                        cloudinaryImageId: "g8mkwzfxi3tsovp5herp",
-                        locality: "Manjari Road",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹150 for two",
-                        cuisines: [
-                          "South Indian",
-                          "Indian",
-                          "Street Food",
-                          "Snacks",
-                          "Beverages",
-                        ],
-                        avgRating: 3.5,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "533211",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 4100,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 4100,
-                        },
-                        parentId: "5819",
-                        avgRatingString: "3.5",
-                        totalRatingsString: "100+",
-                        sla: {
-                          deliveryTime: 36,
-                          lastMileTravel: 3,
-                          serviceability: "SERVICEABLE",
-                          slaString: "36 mins",
-                          lastMileTravelString: "3.0 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 23:00:00",
-                          opened: true,
-                        },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "v1695133679/badges/Pure_Veg111.png",
-                              description: "pureveg",
-                            },
-                          ],
-                        },
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "pureveg",
-                                    imageId:
-                                      "v1695133679/badges/Pure_Veg111.png",
-                                  },
-                                },
-                              ],
-                            },
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        orderabilityCommunication: {
-                          title: {},
-                          subTitle: {},
-                          message: {},
-                          customIcon: {},
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {
-                        context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
-                      },
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/mankar-dosa-manjari-road-hadapsar-pune-533211",
-                        text: "RESTAURANT_MENU",
-                        type: "WEBLINK",
-                      },
-                      widgetId:
-                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                    },
-                    {
-                      info: {
-                        id: "701293",
-                        name: "South Corner",
-                        cloudinaryImageId: "8747a4eee2e900d0cb848e5d6489c966",
-                        locality: "Manjari mundhawa road",
-                        areaName: "Magarpatta",
+                        id: "640927",
+                        name: "Gagan Sweets",
+                        cloudinaryImageId: "yg7prev26oxdjzx2uly5",
+                        locality: "SR NO.6/2/1,I.T.\r\nTOWERS,ZENSAR,KHARADI",
+                        areaName: "kharadi",
                         costForTwo: "₹300 for two",
-                        cuisines: ["South Indian"],
-                        avgRating: 3.3,
+                        cuisines: ["Sweets", "Snacks", "Desserts"],
+                        avgRating: 4.5,
                         veg: true,
                         feeDetails: {
-                          restaurantId: "701293",
+                          restaurantId: "640927",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 3500,
+                              fee: 6200,
                             },
                             {
                               name: "BASE_TIME",
@@ -3844,25 +3503,26 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 3500,
+                          totalFee: 6200,
                         },
-                        parentId: "191323",
-                        avgRatingString: "3.3",
-                        totalRatingsString: "10+",
+                        parentId: "386478",
+                        avgRatingString: "4.5",
+                        totalRatingsString: "500+",
                         sla: {
                           deliveryTime: 31,
-                          lastMileTravel: 2.6,
+                          lastMileTravel: 7.9,
                           serviceability: "SERVICEABLE",
                           slaString: "31 mins",
-                          lastMileTravelString: "2.6 km",
+                          lastMileTravelString: "7.9 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:00:00",
+                          nextCloseTime: "2023-10-06 22:00:00",
                           opened: true,
                         },
                         badges: {},
                         isOpen: true,
+                        aggregatedDiscountInfoV2: {},
                         type: "F",
                         badgesV2: {
                           entityBadges: {
@@ -3871,10 +3531,6 @@ const restaurantDataList = [
                             textExtendedBadges: {},
                           },
                         },
-                        aggregatedDiscountInfoV3: {
-                          header: "30% OFF",
-                          subHeader: "UPTO ₹75",
-                        },
                         orderabilityCommunication: {
                           title: {},
                           subTitle: {},
@@ -3891,15 +3547,14 @@ const restaurantDataList = [
                         },
                         reviewsSummary: {},
                         displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        isNewlyOnboarded: true,
                         restaurantOfferPresentationInfo: {},
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/south-corner-manjari-mundhawa-road-magarpatta-pune-701293",
+                        link: "https://www.swiggy.com/restaurants/gagan-sweets-sr-no-6-2-1-i-t-towers-zensar-kharadi-pune-640927",
                         text: "RESTAURANT_MENU",
                         type: "WEBLINK",
                       },
@@ -3930,7 +3585,7 @@ const restaurantDataList = [
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 4700,
+                              fee: 4400,
                             },
                             {
                               name: "BASE_TIME",
@@ -3939,21 +3594,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 4700,
+                          totalFee: 4400,
                         },
                         parentId: "121215",
                         avgRatingString: "4.2",
                         totalRatingsString: "1K+",
                         sla: {
-                          deliveryTime: 34,
+                          deliveryTime: 28,
                           lastMileTravel: 4,
                           serviceability: "SERVICEABLE",
-                          slaString: "34 mins",
+                          slaString: "28 mins",
                           lastMileTravelString: "4.0 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:00:00",
+                          nextCloseTime: "2023-10-06 23:00:00",
                           opened: true,
                         },
                         badges: {
@@ -4007,7 +3662,7 @@ const restaurantDataList = [
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
                         link: "https://www.swiggy.com/restaurants/krushna-pure-veg-solapur-road-manjri-budruk-pune-579545",
@@ -4019,20 +3674,21 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "358845",
-                        name: "Theobroma",
-                        cloudinaryImageId: "b033728dcb0101ceb19bff0e1e1f6474",
-                        locality: "Magarpatta City",
-                        areaName: "Magarpatta City",
-                        costForTwo: "₹500 for two",
-                        cuisines: ["Bakery", "Desserts"],
-                        avgRating: 4.4,
+                        id: "588934",
+                        name: "kaka Halwai",
+                        cloudinaryImageId: "whhhetzo8ypnzjp7rh4m",
+                        locality: "Leela Grandeur Manjari Kh",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹400 for two",
+                        cuisines: ["Sweets", "Snacks"],
+                        avgRating: 3.4,
+                        veg: true,
                         feeDetails: {
-                          restaurantId: "358845",
+                          restaurantId: "588934",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 6500,
+                              fee: 3800,
                             },
                             {
                               name: "BASE_TIME",
@@ -4041,53 +3697,33 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 6500,
+                          totalFee: 3800,
                         },
-                        parentId: "1040",
-                        avgRatingString: "4.4",
-                        totalRatingsString: "1K+",
+                        parentId: "9930",
+                        avgRatingString: "3.4",
+                        totalRatingsString: "10+",
                         sla: {
-                          deliveryTime: 32,
-                          lastMileTravel: 5.7,
+                          deliveryTime: 22,
+                          lastMileTravel: 3.6,
                           serviceability: "SERVICEABLE",
-                          slaString: "32 mins",
-                          lastMileTravelString: "5.7 km",
+                          slaString: "22 mins",
+                          lastMileTravelString: "3.6 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-02 00:00:00",
+                          nextCloseTime: "2023-10-06 20:30:00",
                           opened: true,
                         },
-                        badges: {
-                          imageBadges: [
-                            {
-                              imageId: "newg.png",
-                              description: "Gourmet",
-                            },
-                          ],
-                        },
+                        badges: {},
                         isOpen: true,
+                        aggregatedDiscountInfoV2: {},
                         type: "F",
                         badgesV2: {
                           entityBadges: {
-                            imageBased: {
-                              badgeObject: [
-                                {
-                                  attributes: {
-                                    description: "Gourmet",
-                                    imageId: "newg.png",
-                                  },
-                                },
-                              ],
-                            },
+                            imageBased: {},
                             textBased: {},
                             textExtendedBadges: {},
                           },
-                        },
-                        aggregatedDiscountInfoV3: {
-                          header: "10% OFF",
-                          subHeader: "ABOVE ₹159",
-                          discountTag: "FLAT DEAL",
                         },
                         orderabilityCommunication: {
                           title: {},
@@ -4109,10 +3745,10 @@ const restaurantDataList = [
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/theobroma-magarpatta-city-pune-358845",
+                        link: "https://www.swiggy.com/restaurants/kaka-halwai-leela-grandeur-manjari-kh-hadapsar-pune-588934",
                         text: "RESTAURANT_MENU",
                         type: "WEBLINK",
                       },
@@ -4121,26 +3757,20 @@ const restaurantDataList = [
                     },
                     {
                       info: {
-                        id: "170439",
-                        name: "Oven Story Pizza - Standout Toppings",
-                        cloudinaryImageId: "f986df6f1a1fcf2ff24d2eaf44d570a7",
-                        locality: "Keshav Nagar",
-                        areaName: "Mundhwa",
-                        costForTwo: "₹600 for two",
-                        cuisines: [
-                          "Pizzas",
-                          "Pastas",
-                          "Italian",
-                          "Desserts",
-                          "Beverages",
-                        ],
+                        id: "159428",
+                        name: "Burger King",
+                        cloudinaryImageId: "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                        locality: "Amanora Town",
+                        areaName: "Hadapsar",
+                        costForTwo: "₹350 for two",
+                        cuisines: ["Burgers", "American"],
                         avgRating: 4.1,
                         feeDetails: {
-                          restaurantId: "170439",
+                          restaurantId: "159428",
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 6700,
+                              fee: 5000,
                             },
                             {
                               name: "BASE_TIME",
@@ -4149,21 +3779,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 6700,
+                          totalFee: 5000,
                         },
-                        parentId: "3534",
+                        parentId: "166",
                         avgRatingString: "4.1",
-                        totalRatingsString: "1K+",
+                        totalRatingsString: "10K+",
                         sla: {
-                          deliveryTime: 34,
-                          lastMileTravel: 5,
+                          deliveryTime: 42,
+                          lastMileTravel: 5.5,
                           serviceability: "SERVICEABLE",
-                          slaString: "29-39 mins",
-                          lastMileTravelString: "5.0 km",
+                          slaString: "42 mins",
+                          lastMileTravelString: "5.5 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:59:00",
+                          nextCloseTime: "2023-10-07 02:00:00",
                           opened: true,
                         },
                         badges: {},
@@ -4177,8 +3807,8 @@ const restaurantDataList = [
                           },
                         },
                         aggregatedDiscountInfoV3: {
-                          header: "50% OFF",
-                          subHeader: "UPTO ₹100",
+                          header: "EVERY ITEM",
+                          subHeader: "@ ₹129",
                         },
                         orderabilityCommunication: {
                           title: {},
@@ -4200,176 +3830,10 @@ const restaurantDataList = [
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
-                        link: "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-keshav-nagar-mundhwa-pune-170439",
-                        text: "RESTAURANT_MENU",
-                        type: "WEBLINK",
-                      },
-                      widgetId:
-                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                    },
-                    {
-                      info: {
-                        id: "640927",
-                        name: "Gagan Sweets",
-                        cloudinaryImageId: "yg7prev26oxdjzx2uly5",
-                        locality: "SR NO.6/2/1,I.T.\r\nTOWERS,ZENSAR,KHARADI",
-                        areaName: "kharadi",
-                        costForTwo: "₹300 for two",
-                        cuisines: ["Sweets", "Snacks", "Desserts"],
-                        avgRating: 4.4,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "640927",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 7200,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 7200,
-                        },
-                        parentId: "386478",
-                        avgRatingString: "4.4",
-                        totalRatingsString: "500+",
-                        sla: {
-                          deliveryTime: 33,
-                          lastMileTravel: 7.9,
-                          serviceability: "SERVICEABLE",
-                          slaString: "33 mins",
-                          lastMileTravelString: "7.9 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 22:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        orderabilityCommunication: {
-                          title: {},
-                          subTitle: {},
-                          message: {},
-                          customIcon: {},
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {
-                        context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
-                      },
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/gagan-sweets-sr-no-6-2-1-i-t-towers-zensar-kharadi-pune-640927",
-                        text: "RESTAURANT_MENU",
-                        type: "WEBLINK",
-                      },
-                      widgetId:
-                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
-                    },
-                    {
-                      info: {
-                        id: "627046",
-                        name: "Haldiram's Sweets and Namkeen",
-                        cloudinaryImageId: "edf8410c87fc2a56e2e047bec146702b",
-                        locality: "Subhash Nagar",
-                        areaName: "Hadapsar",
-                        costForTwo: "₹200 for two",
-                        cuisines: ["Sweets", "Bakery", "Desserts"],
-                        avgRating: 4.5,
-                        veg: true,
-                        feeDetails: {
-                          restaurantId: "627046",
-                          fees: [
-                            {
-                              name: "BASE_DISTANCE",
-                              fee: 4100,
-                            },
-                            {
-                              name: "BASE_TIME",
-                            },
-                            {
-                              name: "ANCILLARY_SURGE_FEE",
-                            },
-                          ],
-                          totalFee: 4100,
-                        },
-                        parentId: "391465",
-                        avgRatingString: "4.5",
-                        totalRatingsString: "100+",
-                        sla: {
-                          deliveryTime: 30,
-                          lastMileTravel: 3,
-                          serviceability: "SERVICEABLE",
-                          slaString: "30 mins",
-                          lastMileTravelString: "3.0 km",
-                          iconType: "ICON_TYPE_EMPTY",
-                        },
-                        availability: {
-                          nextCloseTime: "2023-10-01 22:00:00",
-                          opened: true,
-                        },
-                        badges: {},
-                        isOpen: true,
-                        aggregatedDiscountInfoV2: {},
-                        type: "F",
-                        badgesV2: {
-                          entityBadges: {
-                            imageBased: {},
-                            textBased: {},
-                            textExtendedBadges: {},
-                          },
-                        },
-                        orderabilityCommunication: {
-                          title: {},
-                          subTitle: {},
-                          message: {},
-                          customIcon: {},
-                        },
-                        differentiatedUi: {
-                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          differentiatedUiMediaDetails: {
-                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
-                            lottie: {},
-                            video: {},
-                          },
-                        },
-                        reviewsSummary: {},
-                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        restaurantOfferPresentationInfo: {},
-                      },
-                      analytics: {
-                        context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
-                      },
-                      cta: {
-                        link: "https://www.swiggy.com/restaurants/haldirams-sweets-and-namkeen-subhash-nagar-hadapsar-pune-627046",
+                        link: "https://www.swiggy.com/restaurants/burger-king-amanora-town-hadapsar-pune-159428",
                         text: "RESTAURANT_MENU",
                         type: "WEBLINK",
                       },
@@ -4392,7 +3856,7 @@ const restaurantDataList = [
                           fees: [
                             {
                               name: "BASE_DISTANCE",
-                              fee: 5200,
+                              fee: 4900,
                             },
                             {
                               name: "BASE_TIME",
@@ -4401,21 +3865,21 @@ const restaurantDataList = [
                               name: "ANCILLARY_SURGE_FEE",
                             },
                           ],
-                          totalFee: 5200,
+                          totalFee: 4900,
                         },
                         parentId: "37603",
                         avgRatingString: "4.1",
                         totalRatingsString: "5K+",
                         sla: {
-                          deliveryTime: 40,
+                          deliveryTime: 28,
                           lastMileTravel: 4.7,
                           serviceability: "SERVICEABLE",
-                          slaString: "40 mins",
+                          slaString: "28 mins",
                           lastMileTravelString: "4.7 km",
                           iconType: "ICON_TYPE_EMPTY",
                         },
                         availability: {
-                          nextCloseTime: "2023-10-01 23:50:00",
+                          nextCloseTime: "2023-10-07 00:00:00",
                           opened: true,
                         },
                         badges: {
@@ -4466,10 +3930,283 @@ const restaurantDataList = [
                       },
                       analytics: {
                         context:
-                          "seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964",
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
                       },
                       cta: {
                         link: "https://www.swiggy.com/restaurants/atithi-veg-utkarsh-nagar-hadapsar-pune-288059",
+                        text: "RESTAURANT_MENU",
+                        type: "WEBLINK",
+                      },
+                      widgetId:
+                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                    },
+                    {
+                      info: {
+                        id: "121311",
+                        name: "Karachi Sweet Mart",
+                        cloudinaryImageId: "zzgjr19jrnzgqgcui2qq",
+                        locality: "Meera Nagar",
+                        areaName: "Koregaon Park",
+                        costForTwo: "₹400 for two",
+                        cuisines: ["Sweets"],
+                        avgRating: 4.2,
+                        veg: true,
+                        feeDetails: {
+                          restaurantId: "121311",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 8200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 8200,
+                        },
+                        parentId: "5232",
+                        avgRatingString: "4.2",
+                        totalRatingsString: "1K+",
+                        sla: {
+                          deliveryTime: 36,
+                          lastMileTravel: 9.3,
+                          serviceability: "SERVICEABLE",
+                          slaString: "36 mins",
+                          lastMileTravelString: "9.3 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 20:45:00",
+                          opened: true,
+                        },
+                        badges: {
+                          imageBadges: [
+                            {
+                              imageId: "v1695133679/badges/Pure_Veg111.png",
+                              description: "pureveg",
+                            },
+                          ],
+                        },
+                        isOpen: true,
+                        aggregatedDiscountInfoV2: {},
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {
+                              badgeObject: [
+                                {
+                                  attributes: {
+                                    description: "pureveg",
+                                    imageId:
+                                      "v1695133679/badges/Pure_Veg111.png",
+                                  },
+                                },
+                              ],
+                            },
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        orderabilityCommunication: {
+                          title: {},
+                          subTitle: {},
+                          message: {},
+                          customIcon: {},
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {
+                        context:
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
+                      },
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/karachi-sweet-mart-meera-nagar-koregaon-park-pune-121311",
+                        text: "RESTAURANT_MENU",
+                        type: "WEBLINK",
+                      },
+                      widgetId:
+                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                    },
+                    {
+                      info: {
+                        id: "86021",
+                        name: "Anna",
+                        cloudinaryImageId: "w650g6vlkyzonk5xjgbx",
+                        locality: "Kharadi",
+                        areaName: "Kharadi",
+                        costForTwo: "₹300 for two",
+                        cuisines: ["South Indian", "Andhra"],
+                        avgRating: 4.3,
+                        veg: true,
+                        feeDetails: {
+                          restaurantId: "86021",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 6200,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 6200,
+                        },
+                        parentId: "33765",
+                        avgRatingString: "4.3",
+                        totalRatingsString: "5K+",
+                        sla: {
+                          deliveryTime: 33,
+                          lastMileTravel: 7.8,
+                          serviceability: "SERVICEABLE",
+                          slaString: "33 mins",
+                          lastMileTravelString: "7.8 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 22:00:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        aggregatedDiscountInfoV2: {},
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        orderabilityCommunication: {
+                          title: {},
+                          subTitle: {},
+                          message: {},
+                          customIcon: {},
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {
+                        context:
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
+                      },
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/anna-kharadi-pune-86021",
+                        text: "RESTAURANT_MENU",
+                        type: "WEBLINK",
+                      },
+                      widgetId:
+                        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
+                    },
+                    {
+                      info: {
+                        id: "78428",
+                        name: "Irani Cafe",
+                        cloudinaryImageId: "chzgh6wmt5r4b8wsfq3g",
+                        locality: "BG Shirke Road",
+                        areaName: "Magarpatta",
+                        costForTwo: "₹200 for two",
+                        cuisines: [
+                          "Bakery",
+                          "Snacks",
+                          "Fast Food",
+                          "Desserts",
+                          "Beverages",
+                          "Indian",
+                          "Street Food",
+                        ],
+                        avgRating: 4.4,
+                        feeDetails: {
+                          restaurantId: "78428",
+                          fees: [
+                            {
+                              name: "BASE_DISTANCE",
+                              fee: 5600,
+                            },
+                            {
+                              name: "BASE_TIME",
+                            },
+                            {
+                              name: "ANCILLARY_SURGE_FEE",
+                            },
+                          ],
+                          totalFee: 5600,
+                        },
+                        parentId: "4057",
+                        avgRatingString: "4.4",
+                        totalRatingsString: "10K+",
+                        sla: {
+                          deliveryTime: 33,
+                          lastMileTravel: 6.1,
+                          serviceability: "SERVICEABLE",
+                          slaString: "33 mins",
+                          lastMileTravelString: "6.1 km",
+                          iconType: "ICON_TYPE_EMPTY",
+                        },
+                        availability: {
+                          nextCloseTime: "2023-10-06 22:30:00",
+                          opened: true,
+                        },
+                        badges: {},
+                        isOpen: true,
+                        aggregatedDiscountInfoV2: {},
+                        type: "F",
+                        badgesV2: {
+                          entityBadges: {
+                            imageBased: {},
+                            textBased: {},
+                            textExtendedBadges: {},
+                          },
+                        },
+                        orderabilityCommunication: {
+                          title: {},
+                          subTitle: {},
+                          message: {},
+                          customIcon: {},
+                        },
+                        differentiatedUi: {
+                          displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                          differentiatedUiMediaDetails: {
+                            mediaType: "ADS_MEDIA_ENUM_IMAGE",
+                            lottie: {},
+                            video: {},
+                          },
+                        },
+                        reviewsSummary: {},
+                        displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                        restaurantOfferPresentationInfo: {},
+                      },
+                      analytics: {
+                        context:
+                          "seo-data-195140af-de55-4de7-ad5c-c006c727233f",
+                      },
+                      cta: {
+                        link: "https://www.swiggy.com/restaurants/irani-cafe-bg-shirke-road-magarpatta-pune-78428",
                         text: "RESTAURANT_MENU",
                         type: "WEBLINK",
                       },
@@ -7210,7 +6947,7 @@ const restaurantDataList = [
               userAgent:
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
               gandalfRequest:
-                '{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-13eabe8a-b0b8-47ab-bd8e-eacc1e714964","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE"}}',
+                '{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-195140af-de55-4de7-ad5c-c006c727233f","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE"}}',
               id: "meta_data",
               metaInfo: {
                 pageType: "FOOD_HOME_PAGE",
@@ -7230,10 +6967,10 @@ const restaurantDataList = [
       cacheExpiryTime: 240,
       nextFetch: 1,
     },
-    tid: "d6c56736-a5cd-4e89-ba68-b9d46b1fa772",
-    sid: "9n63ba2f-0265-4c82-a237-9f9387724404",
-    deviceId: "e7940f1d-ccae-4d70-2f51-149516a23009",
-    csrfToken: "nY1OGREY3eVO--aVfkiXY6A7S-YYXjQbaNoFurEQ",
+    tid: "38944304-50e8-4ed8-ac18-f42f24f8531f",
+    sid: "9qafcca1-085c-43b2-aedc-50e1d5e5d5ec",
+    deviceId: "ced00da1-32f7-a1e6-f2cd-e4c12a50a471",
+    csrfToken: "dicaDJIOqXTv-eHEN9kuYjx83IWOHrneWSLHST4Y",
   },
 ];
 
