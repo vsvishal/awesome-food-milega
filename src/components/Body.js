@@ -8,7 +8,7 @@ import UserContext from "../utils/UserContext";
 import React from "react";
 import { RESTAURANTS_URL } from "../utils/constants";
 import Footer from "./Footer";
-import restaurantDataList from "../utils/homePageMockData";
+import restaurantDataList from "../utils/mocks_api_data/homePageMockData";
 
 function Body() {
   const [restaurants, setRestaurants] = useState([]);

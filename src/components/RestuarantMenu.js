@@ -14,9 +14,8 @@ function RestuarantMenu() {
   const { name, areaName, avgRating, costForTwoMessage, cuisines, locality } =
     resInfo?.cards?.[0].card?.card?.info || {};
 
-  const { itemCards } =
-    resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards[1]?.card
-      ?.card || {};
+  // const { itemCards } =
+  //   resInfo?.cards?.[2].groupedCard?.cardGroupMap?.REGULAR.cards[1]?.card?.card || {};
   // console.log("itemCards ", itemCards);
 
   const categoryData =
